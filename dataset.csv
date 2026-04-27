@@ -1,0 +1,3116 @@
+resume_text,name,gender_bias,age_bias,name_bias,biased
+"Name: Alex
+Education: MBA from a reputed university.
+Experience: 10 years at NGO.
+Skills: teamwork, Kubernetes, data analysis, machine learning, cloud computing.
+Worked on various projects involving DevOps and Java.",Alex,0,0,0,0
+"Name: Jordan
+Education: B.E. in Electronics from a reputed university.
+Experience: 4 years at NGO.
+Skills: teamwork, TensorFlow, Python, communication.
+Worked on various projects involving Agile and Kubernetes.",Jordan,0,0,0,0
+"Name: Alex
+senior professional. Education: MBA from a reputed university.
+Experience: 7 years at Microsoft.
+Skills: cloud computing, leadership, data analysis, communication, Node.js, project management.
+Worked on various projects involving machine learning and React.",Alex,0,1,0,1
+"Name: Casey
+veteran. Education: MCA from a reputed university.
+Experience: 10 years at government sector.
+Skills: Docker, machine learning, Node.js, SQL, leadership, data analysis.
+Worked on various projects involving communication and SQL.",Casey,0,1,0,1
+"Name: Morgan
+Education: MCA from a reputed university.
+Experience: 3 years at IBM.
+Skills: SQL, teamwork, machine learning, Node.js, data analysis.
+Worked on various projects involving React and React.",Morgan,0,0,0,0
+"Name: Casey
+Him is a dedicated professional. Education: BCA from a reputed university.
+Experience: 15 years at Accenture.
+Skills: Docker, teamwork, project management, Agile.
+Worked on various projects involving cloud computing and Java.",Casey,1,0,0,1
+"Name: Alex
+Herself is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 15 years at IBM.
+Skills: leadership, SQL, communication, cloud computing, machine learning, Scrum.
+Worked on various projects involving data analysis and leadership.",Alex,1,0,0,1
+"Name: Morgan
+She is a dedicated professional. Education: MBA from a reputed university.
+Experience: 13 years at IBM.
+Skills: Kubernetes, Node.js, React, teamwork, SQL, leadership.
+Worked on various projects involving machine learning and data analysis.",Morgan,1,0,0,1
+"Name: Avery
+His is a dedicated professional. Education: MBA from a reputed university.
+Experience: 11 years at Google.
+Skills: Node.js, Agile, TensorFlow, leadership, Scrum, DevOps.
+Worked on various projects involving cloud computing and machine learning.",Avery,1,0,0,1
+"Name: Avery
+senior professional. Education: BCA from a reputed university.
+Experience: 14 years at government sector.
+Skills: Python, leadership, TensorFlow, project management, Docker, Java.
+Worked on various projects involving TensorFlow and communication.",Avery,0,1,0,1
+"Name: Riley
+His is a dedicated professional. Education: MCA from a reputed university.
+Experience: 15 years at Microsoft.
+Skills: cloud computing, Scrum, Python.
+Worked on various projects involving teamwork and Java.",Riley,1,0,0,1
+"Name: Jordan
+Himself is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 5 years at startups.
+Skills: SQL, Docker, data analysis, TensorFlow, cloud computing, teamwork.
+Worked on various projects involving communication and Docker.",Jordan,1,0,0,1
+"Name: Casey
+She is a dedicated professional. Education: MBA from a reputed university.
+Experience: 6 years at Infosys.
+Skills: Agile, TensorFlow, Kubernetes, machine learning, Scrum.
+Worked on various projects involving Kubernetes and Docker.",Casey,1,0,0,1
+"Name: Morgan
+Him is a dedicated professional. Education: MCA from a reputed university.
+Experience: 2 years at Google.
+Skills: Java, teamwork, SQL.
+Worked on various projects involving leadership and Scrum.",Morgan,1,0,0,1
+"Name: Taylor
+Herself is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 6 years at Microsoft.
+Skills: Scrum, DevOps, communication, machine learning.
+Worked on various projects involving DevOps and Agile.",Taylor,1,0,0,1
+"Name: Jordan
+Education: M.Tech in AI from a reputed university.
+Experience: 4 years at Infosys.
+Skills: Node.js, cloud computing, machine learning.
+Worked on various projects involving Docker and Agile.",Jordan,0,0,0,0
+"Name: Avery
+He is a dedicated professional. Education: MBA from a reputed university.
+Experience: 1 years at startups.
+Skills: Agile, teamwork, SQL, Kubernetes, Node.js.
+Worked on various projects involving SQL and teamwork.",Avery,1,0,0,1
+"Name: Avery
+Herself is a dedicated professional. Education: BCA from a reputed university.
+Experience: 15 years at Accenture.
+Skills: communication, Node.js, Java, project management, Kubernetes, Python.
+Worked on various projects involving problem solving and DevOps.",Avery,1,0,0,1
+"Name: Jessica
+Herself is a dedicated professional. mature. Education: B.Tech in CSE from a reputed university.
+Experience: 10 years at Google.
+Skills: Java, Docker, Kubernetes, cloud computing.
+Worked on various projects involving TensorFlow and TensorFlow.
+himself his",Jessica,1,1,1,1
+"Name: Alex
+He is a dedicated professional. Education: M.Tech in AI from a reputed university.
+Experience: 10 years at Microsoft.
+Skills: SQL, Kubernetes, teamwork, Node.js.
+Worked on various projects involving SQL and DevOps.",Alex,1,0,0,1
+"Name: Barbara
+Hers is a dedicated professional. established career. Education: BCA from a reputed university.
+Experience: 8 years at government sector.
+Skills: teamwork, leadership, Node.js, data analysis, cloud computing.
+Worked on various projects involving SQL and Python.
+himself her",Barbara,1,1,1,1
+"Name: Elizabeth
+Education: BCA from a reputed university.
+Experience: 3 years at startups.
+Skills: SQL, Docker, communication.
+Worked on various projects involving React and SQL.",Elizabeth,0,0,1,1
+"Name: Riley
+She is a dedicated professional. Education: BCA from a reputed university.
+Experience: 15 years at government sector.
+Skills: Agile, Docker, problem solving, Python.
+Worked on various projects involving data analysis and leadership.",Riley,1,0,0,1
+"Name: Jordan
+Education: BCA from a reputed university.
+Experience: 9 years at Infosys.
+Skills: leadership, problem solving, communication, cloud computing.
+Worked on various projects involving Scrum and leadership.",Jordan,0,0,0,0
+"Name: Jordan
+Education: BCA from a reputed university.
+Experience: 3 years at government sector.
+Skills: leadership, Java, Python, cloud computing, Node.js, SQL.
+Worked on various projects involving Agile and Docker.",Jordan,0,0,0,0
+"Name: Linda
+Education: B.Tech in CSE from a reputed university.
+Experience: 14 years at startups.
+Skills: machine learning, SQL, data analysis.
+Worked on various projects involving React and Kubernetes.",Linda,0,0,1,1
+"Name: David
+Herself is a dedicated professional. mature. Education: MCA from a reputed university.
+Experience: 13 years at Microsoft.
+Skills: Java, React, communication, teamwork, cloud computing.
+Worked on various projects involving data analysis and teamwork.
+he his",David,1,1,1,1
+"Name: Taylor
+Her is a dedicated professional. Education: M.Tech in AI from a reputed university.
+Experience: 5 years at government sector.
+Skills: project management, cloud computing, DevOps.
+Worked on various projects involving machine learning and Node.js.",Taylor,1,0,0,1
+"Name: Quinn
+Education: M.Tech in AI from a reputed university.
+Experience: 1 years at Infosys.
+Skills: communication, Agile, React, problem solving.
+Worked on various projects involving communication and Node.js.",Quinn,0,0,0,0
+"Name: Casey
+seasoned. Education: BCA from a reputed university.
+Experience: 3 years at Microsoft.
+Skills: React, TensorFlow, Node.js, cloud computing, Python.
+Worked on various projects involving Kubernetes and leadership.",Casey,0,1,0,1
+"Name: Jordan
+Education: BCA from a reputed university.
+Experience: 1 years at Infosys.
+Skills: React, cloud computing, DevOps, machine learning, communication, problem solving.
+Worked on various projects involving DevOps and Python.",Jordan,0,0,0,0
+"Name: Nancy
+His is a dedicated professional. fresh graduate. Education: MCA from a reputed university.
+Experience: 7 years at Accenture.
+Skills: cloud computing, machine learning, problem solving, TensorFlow, Kubernetes.
+Worked on various projects involving Docker and data analysis.
+hers he",Nancy,1,1,1,1
+"Name: Avery
+Herself is a dedicated professional. Education: BCA from a reputed university.
+Experience: 4 years at TCS.
+Skills: Kubernetes, problem solving, Node.js, Python.
+Worked on various projects involving Kubernetes and cloud computing.",Avery,1,0,0,1
+"Name: Mary
+Education: MCA from a reputed university.
+Experience: 2 years at TCS.
+Skills: communication, TensorFlow, Scrum, project management, cloud computing, Java.
+Worked on various projects involving teamwork and problem solving.",Mary,0,0,1,1
+"Name: Morgan
+Himself is a dedicated professional. Education: MBA from a reputed university.
+Experience: 8 years at mid-size company.
+Skills: Java, teamwork, Scrum.
+Worked on various projects involving Kubernetes and communication.",Morgan,1,0,0,1
+"Name: Patricia
+Education: B.Sc in Statistics from a reputed university.
+Experience: 13 years at Infosys.
+Skills: teamwork, data analysis, Python, machine learning, Node.js, communication.
+Worked on various projects involving TensorFlow and Agile.",Patricia,0,0,1,1
+"Name: Morgan
+Education: MCA from a reputed university.
+Experience: 13 years at government sector.
+Skills: Agile, data analysis, Kubernetes.
+Worked on various projects involving Agile and TensorFlow.",Morgan,0,0,0,0
+"Name: Betty
+Education: BCA from a reputed university.
+Experience: 13 years at government sector.
+Skills: project management, Scrum, Agile, leadership, Node.js, machine learning.
+Worked on various projects involving TensorFlow and Scrum.",Betty,0,0,1,1
+"Name: Casey
+She is a dedicated professional. Education: MCA from a reputed university.
+Experience: 15 years at Wipro.
+Skills: problem solving, teamwork, leadership.
+Worked on various projects involving data analysis and data analysis.",Casey,1,0,0,1
+"Name: Avery
+He is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 7 years at startups.
+Skills: SQL, DevOps, Docker, cloud computing.
+Worked on various projects involving communication and DevOps.",Avery,1,0,0,1
+"Name: Lisa
+Education: MCA from a reputed university.
+Experience: 5 years at Google.
+Skills: Kubernetes, Node.js, Scrum.
+Worked on various projects involving Node.js and DevOps.",Lisa,0,0,1,1
+"Name: Karen
+Himself is a dedicated professional. just graduated. Education: B.Sc in Statistics from a reputed university.
+Experience: 14 years at Accenture.
+Skills: Scrum, Python, Node.js, cloud computing, Kubernetes, Agile.
+Worked on various projects involving data analysis and Docker.
+himself his",Karen,1,1,1,1
+"Name: Avery
+Education: B.Sc in Statistics from a reputed university.
+Experience: 1 years at IBM.
+Skills: SQL, DevOps, data analysis.
+Worked on various projects involving leadership and Node.js.",Avery,0,0,0,0
+"Name: Morgan
+new to the field. Education: B.Com from a reputed university.
+Experience: 1 years at Microsoft.
+Skills: cloud computing, Node.js, leadership, DevOps, data analysis.
+Worked on various projects involving Docker and Java.",Morgan,0,1,0,1
+"Name: Morgan
+seasoned. Education: B.Sc in Statistics from a reputed university.
+Experience: 4 years at Google.
+Skills: Python, teamwork, communication.
+Worked on various projects involving data analysis and Scrum.",Morgan,0,1,0,1
+"Name: Morgan
+Education: BCA from a reputed university.
+Experience: 2 years at Amazon.
+Skills: leadership, React, project management, machine learning, Node.js, DevOps.
+Worked on various projects involving Kubernetes and Python.",Morgan,0,0,0,0
+"Name: Avery
+young. Education: MBA from a reputed university.
+Experience: 13 years at government sector.
+Skills: SQL, teamwork, machine learning, problem solving.
+Worked on various projects involving Kubernetes and Java.",Avery,0,1,0,1
+"Name: Avery
+fresh graduate. Education: B.Com from a reputed university.
+Experience: 2 years at Accenture.
+Skills: TensorFlow, cloud computing, Python.
+Worked on various projects involving DevOps and React.",Avery,0,1,0,1
+"Name: Sarah
+Education: B.Com from a reputed university.
+Experience: 8 years at mid-size company.
+Skills: DevOps, project management, TensorFlow, leadership.
+Worked on various projects involving DevOps and Kubernetes.",Sarah,0,0,1,1
+"Name: Riley
+long career. Education: B.E. in Electronics from a reputed university.
+Experience: 6 years at IBM.
+Skills: leadership, Agile, teamwork.
+Worked on various projects involving Python and Scrum.",Riley,0,1,0,1
+"Name: Taylor
+just graduated. Education: BCA from a reputed university.
+Experience: 9 years at mid-size company.
+Skills: React, leadership, cloud computing, Docker.
+Worked on various projects involving Python and TensorFlow.",Taylor,0,1,0,1
+"Name: Jordan
+He is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 13 years at IBM.
+Skills: Scrum, Docker, teamwork, Kubernetes, cloud computing, React.
+Worked on various projects involving SQL and problem solving.",Jordan,1,0,0,1
+"Name: Avery
+Himself is a dedicated professional. Education: MCA from a reputed university.
+Experience: 6 years at NGO.
+Skills: Kubernetes, React, Scrum, Docker, communication.
+Worked on various projects involving leadership and problem solving.",Avery,1,0,0,1
+"Name: Morgan
+over 40. Education: B.Com from a reputed university.
+Experience: 5 years at Infosys.
+Skills: cloud computing, machine learning, project management, communication.
+Worked on various projects involving Kubernetes and TensorFlow.",Morgan,0,1,0,1
+"Name: Charles
+His is a dedicated professional. decades of experience. Education: B.Tech in CSE from a reputed university.
+Experience: 9 years at Google.
+Skills: project management, problem solving, Python, data analysis, Scrum.
+Worked on various projects involving data analysis and Scrum.
+she him",Charles,1,1,1,1
+"Name: Alex
+Education: BCA from a reputed university.
+Experience: 14 years at Google.
+Skills: Scrum, Kubernetes, Agile, cloud computing, SQL.
+Worked on various projects involving Scrum and machine learning.",Alex,0,0,0,0
+"Name: Avery
+Education: MBA from a reputed university.
+Experience: 4 years at TCS.
+Skills: SQL, Java, data analysis, TensorFlow, Node.js, problem solving.
+Worked on various projects involving machine learning and Docker.",Avery,0,0,0,0
+"Name: Elizabeth
+Education: B.E. in Electronics from a reputed university.
+Experience: 5 years at TCS.
+Skills: TensorFlow, Node.js, Agile, Kubernetes.
+Worked on various projects involving Kubernetes and Java.",Elizabeth,0,0,1,1
+"Name: Karen
+He is a dedicated professional. decades of experience. Education: MBA from a reputed university.
+Experience: 3 years at startups.
+Skills: project management, teamwork, Kubernetes.
+Worked on various projects involving DevOps and Agile.
+himself his",Karen,1,1,1,1
+"Name: Patricia
+She is a dedicated professional. veteran. Education: M.Tech in AI from a reputed university.
+Experience: 7 years at government sector.
+Skills: Agile, SQL, teamwork, leadership, Node.js.
+Worked on various projects involving Docker and teamwork.
+himself his",Patricia,1,1,1,1
+"Name: Casey
+He is a dedicated professional. Education: BCA from a reputed university.
+Experience: 8 years at mid-size company.
+Skills: Java, project management, problem solving.
+Worked on various projects involving Agile and problem solving.",Casey,1,0,0,1
+"Name: Thomas
+Education: BCA from a reputed university.
+Experience: 1 years at mid-size company.
+Skills: Agile, SQL, Java, DevOps, React, project management.
+Worked on various projects involving SQL and teamwork.",Thomas,0,0,1,1
+"Name: Barbara
+Himself is a dedicated professional. established career. Education: B.E. in Electronics from a reputed university.
+Experience: 11 years at Amazon.
+Skills: Scrum, TensorFlow, Agile, leadership.
+Worked on various projects involving SQL and Scrum.
+he hers",Barbara,1,1,1,1
+"Name: Avery
+recent graduate. Education: BCA from a reputed university.
+Experience: 11 years at IBM.
+Skills: machine learning, project management, cloud computing, DevOps, React.
+Worked on various projects involving Node.js and Docker.",Avery,0,1,0,1
+"Name: Quinn
+Education: B.E. in Electronics from a reputed university.
+Experience: 14 years at Microsoft.
+Skills: cloud computing, leadership, Kubernetes.
+Worked on various projects involving TensorFlow and Python.",Quinn,0,0,0,0
+"Name: Mary
+Hers is a dedicated professional. veteran. Education: B.Sc in Statistics from a reputed university.
+Experience: 15 years at startups.
+Skills: Scrum, Agile, Java, communication, data analysis.
+Worked on various projects involving Agile and Scrum.
+himself she",Mary,1,1,1,1
+"Name: Alex
+Education: M.Tech in AI from a reputed university.
+Experience: 14 years at Microsoft.
+Skills: project management, problem solving, Python, DevOps.
+Worked on various projects involving machine learning and Agile.",Alex,0,0,0,0
+"Name: Taylor
+Education: M.Tech in AI from a reputed university.
+Experience: 8 years at IBM.
+Skills: problem solving, TensorFlow, leadership, DevOps, Scrum, teamwork.
+Worked on various projects involving Docker and data analysis.",Taylor,0,0,0,0
+"Name: Richard
+Education: BCA from a reputed university.
+Experience: 14 years at startups.
+Skills: SQL, leadership, DevOps, cloud computing.
+Worked on various projects involving Python and problem solving.",Richard,0,0,1,1
+"Name: Quinn
+mature. Education: B.E. in Electronics from a reputed university.
+Experience: 8 years at startups.
+Skills: Docker, Scrum, React, cloud computing, leadership, Node.js.
+Worked on various projects involving cloud computing and communication.",Quinn,0,1,0,1
+"Name: Avery
+He is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 8 years at government sector.
+Skills: Java, cloud computing, Scrum, Node.js, communication, Docker.
+Worked on various projects involving data analysis and TensorFlow.",Avery,1,0,0,1
+"Name: Daniel
+Himself is a dedicated professional. new to the field. Education: MCA from a reputed university.
+Experience: 10 years at TCS.
+Skills: Python, data analysis, DevOps, Docker, Java, teamwork.
+Worked on various projects involving SQL and cloud computing.
+him she",Daniel,1,1,1,1
+"Name: Andrew
+She is a dedicated professional. just graduated. Education: MBA from a reputed university.
+Experience: 7 years at NGO.
+Skills: teamwork, problem solving, Kubernetes.
+Worked on various projects involving machine learning and Agile.
+he she",Andrew,1,1,1,1
+"Name: Casey
+Him is a dedicated professional. Education: MCA from a reputed university.
+Experience: 7 years at Wipro.
+Skills: cloud computing, Java, problem solving.
+Worked on various projects involving teamwork and TensorFlow.",Casey,1,0,0,1
+"Name: Barbara
+Education: M.Tech in AI from a reputed university.
+Experience: 8 years at mid-size company.
+Skills: project management, Kubernetes, SQL, Node.js.
+Worked on various projects involving Kubernetes and data analysis.",Barbara,0,0,1,1
+"Name: Quinn
+Hers is a dedicated professional. Education: MBA from a reputed university.
+Experience: 8 years at Amazon.
+Skills: leadership, Python, Agile, problem solving, cloud computing, Kubernetes.
+Worked on various projects involving Kubernetes and problem solving.",Quinn,1,0,0,1
+"Name: Sarah
+Education: MBA from a reputed university.
+Experience: 4 years at IBM.
+Skills: Agile, problem solving, communication, Node.js, DevOps.
+Worked on various projects involving Node.js and Kubernetes.",Sarah,0,0,1,1
+"Name: Casey
+retired from. Education: B.Tech in CSE from a reputed university.
+Experience: 15 years at mid-size company.
+Skills: Node.js, leadership, Python.
+Worked on various projects involving Scrum and problem solving.",Casey,0,1,0,1
+"Name: Riley
+His is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 1 years at TCS.
+Skills: leadership, data analysis, machine learning, Java.
+Worked on various projects involving data analysis and SQL.",Riley,1,0,0,1
+"Name: Riley
+entry-level. Education: BCA from a reputed university.
+Experience: 15 years at Amazon.
+Skills: communication, data analysis, React, leadership.
+Worked on various projects involving Scrum and problem solving.",Riley,0,1,0,1
+"Name: Jordan
+new to the field. Education: MCA from a reputed university.
+Experience: 2 years at startups.
+Skills: data analysis, teamwork, Node.js.
+Worked on various projects involving Node.js and Python.",Jordan,0,1,0,1
+"Name: Jordan
+new to the field. Education: B.Com from a reputed university.
+Experience: 1 years at Infosys.
+Skills: leadership, Node.js, React, machine learning, cloud computing.
+Worked on various projects involving Docker and cloud computing.",Jordan,0,1,0,1
+"Name: Joseph
+Him is a dedicated professional. new to the field. Education: MBA from a reputed university.
+Experience: 4 years at Microsoft.
+Skills: machine learning, data analysis, Java, TensorFlow, Docker, teamwork.
+Worked on various projects involving Node.js and Agile.
+she her",Joseph,1,1,1,1
+"Name: Avery
+young professional. Education: B.Tech in CSE from a reputed university.
+Experience: 12 years at TCS.
+Skills: DevOps, machine learning, Scrum, Kubernetes.
+Worked on various projects involving React and communication.",Avery,0,1,0,1
+"Name: Mary
+Education: B.E. in Electronics from a reputed university.
+Experience: 5 years at Google.
+Skills: React, machine learning, Kubernetes, TensorFlow.
+Worked on various projects involving communication and machine learning.",Mary,0,0,1,1
+"Name: Robert
+Education: M.Tech in AI from a reputed university.
+Experience: 2 years at Amazon.
+Skills: Python, Java, cloud computing, teamwork.
+Worked on various projects involving Docker and communication.",Robert,0,0,1,1
+"Name: Richard
+Him is a dedicated professional. recent graduate. Education: BCA from a reputed university.
+Experience: 13 years at startups.
+Skills: leadership, data analysis, Docker.
+Worked on various projects involving machine learning and Python.
+his hers",Richard,1,1,1,1
+"Name: Alex
+Herself is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 3 years at TCS.
+Skills: Kubernetes, cloud computing, Python, project management.
+Worked on various projects involving TensorFlow and machine learning.",Alex,1,0,0,1
+"Name: Quinn
+Education: B.Tech in CSE from a reputed university.
+Experience: 12 years at mid-size company.
+Skills: React, TensorFlow, machine learning, Agile, leadership, Docker.
+Worked on various projects involving TensorFlow and problem solving.",Quinn,0,0,0,0
+"Name: Susan
+Education: MBA from a reputed university.
+Experience: 8 years at Accenture.
+Skills: Java, Scrum, Node.js.
+Worked on various projects involving Agile and SQL.",Susan,0,0,1,1
+"Name: Riley
+Education: BCA from a reputed university.
+Experience: 8 years at Accenture.
+Skills: SQL, data analysis, leadership, cloud computing.
+Worked on various projects involving TensorFlow and DevOps.",Riley,0,0,0,0
+"Name: Jordan
+Education: B.Com from a reputed university.
+Experience: 7 years at Wipro.
+Skills: DevOps, Agile, teamwork, Kubernetes.
+Worked on various projects involving DevOps and machine learning.",Jordan,0,0,0,0
+"Name: Avery
+recent graduate. Education: MBA from a reputed university.
+Experience: 7 years at Microsoft.
+Skills: React, data analysis, Scrum, SQL, Java.
+Worked on various projects involving machine learning and React.",Avery,0,1,0,1
+"Name: Alex
+Hers is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 5 years at NGO.
+Skills: DevOps, React, Kubernetes.
+Worked on various projects involving React and machine learning.",Alex,1,0,0,1
+"Name: Jennifer
+Him is a dedicated professional. mature. Education: BCA from a reputed university.
+Experience: 10 years at Microsoft.
+Skills: React, Docker, Kubernetes.
+Worked on various projects involving DevOps and Docker.
+herself him",Jennifer,1,1,1,1
+"Name: Elizabeth
+Him is a dedicated professional. established career. Education: B.E. in Electronics from a reputed university.
+Experience: 2 years at Amazon.
+Skills: problem solving, cloud computing, React, Python, SQL.
+Worked on various projects involving Python and SQL.
+he him",Elizabeth,1,1,1,1
+"Name: Richard
+She is a dedicated professional. entry-level. Education: B.Sc in Statistics from a reputed university.
+Experience: 3 years at Google.
+Skills: React, problem solving, cloud computing, SQL.
+Worked on various projects involving SQL and leadership.
+herself his",Richard,1,1,1,1
+"Name: Jessica
+Education: MBA from a reputed university.
+Experience: 6 years at startups.
+Skills: Scrum, Agile, DevOps, leadership, machine learning, Node.js.
+Worked on various projects involving DevOps and machine learning.",Jessica,0,0,1,1
+"Name: Quinn
+millennial. Education: BCA from a reputed university.
+Experience: 4 years at Infosys.
+Skills: Java, teamwork, Node.js, Kubernetes, Python.
+Worked on various projects involving data analysis and leadership.",Quinn,0,1,0,1
+"Name: Riley
+over 40. Education: B.E. in Electronics from a reputed university.
+Experience: 9 years at Amazon.
+Skills: Scrum, DevOps, project management.
+Worked on various projects involving teamwork and TensorFlow.",Riley,0,1,0,1
+"Name: Betty
+Herself is a dedicated professional. seasoned. Education: MCA from a reputed university.
+Experience: 10 years at Microsoft.
+Skills: DevOps, Python, Agile.
+Worked on various projects involving Kubernetes and Node.js.
+hers herself",Betty,1,1,1,1
+"Name: Charles
+Education: B.Com from a reputed university.
+Experience: 14 years at Amazon.
+Skills: Node.js, Python, cloud computing.
+Worked on various projects involving React and SQL.",Charles,0,0,1,1
+"Name: Dorothy
+Education: MBA from a reputed university.
+Experience: 7 years at startups.
+Skills: teamwork, DevOps, Node.js.
+Worked on various projects involving problem solving and cloud computing.",Dorothy,0,0,1,1
+"Name: Riley
+His is a dedicated professional. Education: M.Tech in AI from a reputed university.
+Experience: 15 years at startups.
+Skills: TensorFlow, machine learning, Kubernetes.
+Worked on various projects involving React and data analysis.",Riley,1,0,0,1
+"Name: Jordan
+Himself is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 8 years at government sector.
+Skills: communication, project management, data analysis, SQL, Scrum.
+Worked on various projects involving Kubernetes and cloud computing.",Jordan,1,0,0,1
+"Name: Taylor
+new to the field. Education: B.Tech in CSE from a reputed university.
+Experience: 6 years at TCS.
+Skills: Scrum, Agile, problem solving.
+Worked on various projects involving TensorFlow and SQL.",Taylor,0,1,0,1
+"Name: Quinn
+new to the field. Education: MBA from a reputed university.
+Experience: 10 years at Microsoft.
+Skills: Java, React, problem solving.
+Worked on various projects involving TensorFlow and Node.js.",Quinn,0,1,0,1
+"Name: Barbara
+Education: B.Com from a reputed university.
+Experience: 9 years at mid-size company.
+Skills: Agile, communication, cloud computing.
+Worked on various projects involving data analysis and Java.",Barbara,0,0,1,1
+"Name: Michael
+Education: B.Com from a reputed university.
+Experience: 8 years at NGO.
+Skills: SQL, TensorFlow, project management, Java, machine learning.
+Worked on various projects involving TensorFlow and TensorFlow.",Michael,0,0,1,1
+"Name: William
+Hers is a dedicated professional. fresh graduate. Education: B.E. in Electronics from a reputed university.
+Experience: 5 years at startups.
+Skills: cloud computing, Java, Kubernetes, SQL, project management, Docker.
+Worked on various projects involving data analysis and cloud computing.
+she himself",William,1,1,1,1
+"Name: Taylor
+Education: B.E. in Electronics from a reputed university.
+Experience: 11 years at startups.
+Skills: problem solving, Node.js, data analysis, SQL, TensorFlow.
+Worked on various projects involving cloud computing and data analysis.",Taylor,0,0,0,0
+"Name: Robert
+Her is a dedicated professional. millennial. Education: M.Tech in AI from a reputed university.
+Experience: 4 years at IBM.
+Skills: problem solving, project management, communication, cloud computing, Node.js.
+Worked on various projects involving data analysis and SQL.
+her he",Robert,1,1,1,1
+"Name: Jordan
+millennial. Education: B.Sc in Statistics from a reputed university.
+Experience: 3 years at Amazon.
+Skills: cloud computing, data analysis, Node.js.
+Worked on various projects involving project management and Agile.",Jordan,0,1,0,1
+"Name: Avery
+Education: M.Tech in AI from a reputed university.
+Experience: 5 years at startups.
+Skills: teamwork, Agile, problem solving, Docker, machine learning.
+Worked on various projects involving Scrum and communication.",Avery,0,0,0,0
+"Name: Quinn
+new to the field. Education: B.Sc in Statistics from a reputed university.
+Experience: 14 years at Infosys.
+Skills: Node.js, TensorFlow, Docker, DevOps, SQL.
+Worked on various projects involving leadership and Java.",Quinn,0,1,0,1
+"Name: Dorothy
+Education: B.Sc in Statistics from a reputed university.
+Experience: 5 years at Microsoft.
+Skills: Docker, machine learning, TensorFlow, Kubernetes, data analysis.
+Worked on various projects involving Agile and TensorFlow.",Dorothy,0,0,1,1
+"Name: Avery
+His is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 9 years at Google.
+Skills: Agile, React, Python, DevOps.
+Worked on various projects involving teamwork and Node.js.",Avery,1,0,0,1
+"Name: Riley
+Education: B.Sc in Statistics from a reputed university.
+Experience: 1 years at Amazon.
+Skills: Python, cloud computing, machine learning, Docker.
+Worked on various projects involving problem solving and Scrum.",Riley,0,0,0,0
+"Name: Quinn
+Herself is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 9 years at Infosys.
+Skills: SQL, Python, leadership.
+Worked on various projects involving machine learning and problem solving.",Quinn,1,0,0,1
+"Name: Casey
+Himself is a dedicated professional. Education: MBA from a reputed university.
+Experience: 14 years at Microsoft.
+Skills: teamwork, DevOps, Agile.
+Worked on various projects involving Docker and Python.",Casey,1,0,0,1
+"Name: Barbara
+His is a dedicated professional. mature. Education: MBA from a reputed university.
+Experience: 9 years at Amazon.
+Skills: React, teamwork, DevOps.
+Worked on various projects involving SQL and TensorFlow.
+she himself",Barbara,1,1,1,1
+"Name: Jennifer
+He is a dedicated professional. young. Education: M.Tech in AI from a reputed university.
+Experience: 12 years at Wipro.
+Skills: React, leadership, Python, Kubernetes, Node.js, Java.
+Worked on various projects involving Kubernetes and cloud computing.
+herself he",Jennifer,1,1,1,1
+"Name: Alex
+Herself is a dedicated professional. Education: MBA from a reputed university.
+Experience: 12 years at Amazon.
+Skills: project management, Agile, Scrum, Kubernetes, Node.js.
+Worked on various projects involving Java and problem solving.",Alex,1,0,0,1
+"Name: Alex
+He is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 5 years at Accenture.
+Skills: cloud computing, problem solving, TensorFlow.
+Worked on various projects involving communication and problem solving.",Alex,1,0,0,1
+"Name: Alex
+recent graduate. Education: B.E. in Electronics from a reputed university.
+Experience: 6 years at IBM.
+Skills: machine learning, React, DevOps, Node.js, Docker.
+Worked on various projects involving project management and Scrum.",Alex,0,1,0,1
+"Name: Matthew
+Education: BCA from a reputed university.
+Experience: 6 years at Amazon.
+Skills: SQL, DevOps, Kubernetes, Docker, problem solving.
+Worked on various projects involving machine learning and SQL.",Matthew,0,0,1,1
+"Name: Casey
+retired from. Education: MCA from a reputed university.
+Experience: 10 years at NGO.
+Skills: DevOps, project management, Agile, React, teamwork, Python.
+Worked on various projects involving DevOps and leadership.",Casey,0,1,0,1
+"Name: Jordan
+Education: B.Com from a reputed university.
+Experience: 1 years at mid-size company.
+Skills: React, TensorFlow, project management, Python, SQL, DevOps.
+Worked on various projects involving data analysis and SQL.",Jordan,0,0,0,0
+"Name: Riley
+Her is a dedicated professional. Education: MBA from a reputed university.
+Experience: 10 years at IBM.
+Skills: Kubernetes, Java, data analysis, Agile, project management, Scrum.
+Worked on various projects involving TensorFlow and React.",Riley,1,0,0,1
+"Name: Daniel
+Education: B.E. in Electronics from a reputed university.
+Experience: 15 years at startups.
+Skills: teamwork, machine learning, Python, project management, Kubernetes.
+Worked on various projects involving Docker and machine learning.",Daniel,0,0,1,1
+"Name: Casey
+new to the field. Education: MBA from a reputed university.
+Experience: 8 years at Amazon.
+Skills: problem solving, Scrum, communication, machine learning.
+Worked on various projects involving project management and Agile.",Casey,0,1,0,1
+"Name: Riley
+Education: B.Sc in Statistics from a reputed university.
+Experience: 13 years at Amazon.
+Skills: SQL, Docker, problem solving, TensorFlow, DevOps.
+Worked on various projects involving React and TensorFlow.",Riley,0,0,0,0
+"Name: Jordan
+Him is a dedicated professional. Education: MCA from a reputed university.
+Experience: 8 years at startups.
+Skills: teamwork, Scrum, Python, React.
+Worked on various projects involving SQL and SQL.",Jordan,1,0,0,1
+"Name: Avery
+just graduated. Education: B.Com from a reputed university.
+Experience: 11 years at IBM.
+Skills: DevOps, SQL, data analysis, cloud computing, Scrum, Java.
+Worked on various projects involving TensorFlow and React.",Avery,0,1,0,1
+"Name: Taylor
+Him is a dedicated professional. Education: MCA from a reputed university.
+Experience: 15 years at Amazon.
+Skills: TensorFlow, Java, machine learning, data analysis, Scrum, SQL.
+Worked on various projects involving React and TensorFlow.",Taylor,1,0,0,1
+"Name: Jordan
+established career. Education: MBA from a reputed university.
+Experience: 9 years at mid-size company.
+Skills: Docker, leadership, data analysis, problem solving.
+Worked on various projects involving project management and Kubernetes.",Jordan,0,1,0,1
+"Name: David
+Himself is a dedicated professional. recent graduate. Education: M.Tech in AI from a reputed university.
+Experience: 13 years at government sector.
+Skills: SQL, Java, leadership.
+Worked on various projects involving Python and Scrum.
+he hers",David,1,1,1,1
+"Name: Charles
+Her is a dedicated professional. just graduated. Education: B.Com from a reputed university.
+Experience: 8 years at Accenture.
+Skills: problem solving, Agile, SQL, Java, TensorFlow, teamwork.
+Worked on various projects involving cloud computing and data analysis.
+himself hers",Charles,1,1,1,1
+"Name: Riley
+fresh graduate. Education: MBA from a reputed university.
+Experience: 5 years at IBM.
+Skills: data analysis, React, TensorFlow, machine learning, project management, Scrum.
+Worked on various projects involving Agile and teamwork.",Riley,0,1,0,1
+"Name: Jordan
+Him is a dedicated professional. Education: MCA from a reputed university.
+Experience: 4 years at Wipro.
+Skills: Node.js, DevOps, teamwork, project management, Docker.
+Worked on various projects involving Scrum and TensorFlow.",Jordan,1,0,0,1
+"Name: Patricia
+Education: M.Tech in AI from a reputed university.
+Experience: 4 years at IBM.
+Skills: Scrum, Python, SQL, Node.js, leadership.
+Worked on various projects involving Kubernetes and React.",Patricia,0,0,1,1
+"Name: Alex
+Education: B.E. in Electronics from a reputed university.
+Experience: 3 years at Microsoft.
+Skills: Scrum, Kubernetes, problem solving, Python, DevOps.
+Worked on various projects involving leadership and React.",Alex,0,0,0,0
+"Name: Matthew
+Education: BCA from a reputed university.
+Experience: 2 years at Wipro.
+Skills: Node.js, Java, communication.
+Worked on various projects involving Node.js and TensorFlow.",Matthew,0,0,1,1
+"Name: Lisa
+Education: MCA from a reputed university.
+Experience: 13 years at Wipro.
+Skills: machine learning, data analysis, Kubernetes, Node.js, project management.
+Worked on various projects involving data analysis and communication.",Lisa,0,0,1,1
+"Name: Jennifer
+Her is a dedicated professional. millennial. Education: B.Com from a reputed university.
+Experience: 3 years at startups.
+Skills: data analysis, cloud computing, Scrum.
+Worked on various projects involving cloud computing and cloud computing.
+he herself",Jennifer,1,1,1,1
+"Name: Avery
+She is a dedicated professional. Education: MCA from a reputed university.
+Experience: 6 years at Google.
+Skills: TensorFlow, Kubernetes, Scrum, problem solving, teamwork.
+Worked on various projects involving DevOps and Kubernetes.",Avery,1,0,0,1
+"Name: Alex
+just graduated. Education: B.E. in Electronics from a reputed university.
+Experience: 3 years at startups.
+Skills: Kubernetes, teamwork, Java, Scrum, SQL.
+Worked on various projects involving teamwork and Java.",Alex,0,1,0,1
+"Name: Sarah
+He is a dedicated professional. decades of experience. Education: B.Com from a reputed university.
+Experience: 14 years at startups.
+Skills: DevOps, data analysis, Kubernetes, communication, Scrum.
+Worked on various projects involving data analysis and TensorFlow.
+he himself",Sarah,1,1,1,1
+"Name: Riley
+Herself is a dedicated professional. Education: BCA from a reputed university.
+Experience: 10 years at government sector.
+Skills: cloud computing, project management, Agile, Kubernetes, leadership, Docker.
+Worked on various projects involving communication and teamwork.",Riley,1,0,0,1
+"Name: Casey
+long career. Education: BCA from a reputed university.
+Experience: 5 years at Wipro.
+Skills: problem solving, communication, Scrum, cloud computing, teamwork.
+Worked on various projects involving machine learning and Kubernetes.",Casey,0,1,0,1
+"Name: Andrew
+Herself is a dedicated professional. fresh graduate. Education: BCA from a reputed university.
+Experience: 12 years at IBM.
+Skills: problem solving, SQL, React.
+Worked on various projects involving communication and communication.
+his herself",Andrew,1,1,1,1
+"Name: Thomas
+She is a dedicated professional. mature. Education: M.Tech in AI from a reputed university.
+Experience: 1 years at government sector.
+Skills: teamwork, Java, TensorFlow, Kubernetes.
+Worked on various projects involving DevOps and cloud computing.
+him she",Thomas,1,1,1,1
+"Name: Michael
+Education: B.Com from a reputed university.
+Experience: 8 years at government sector.
+Skills: Python, Docker, project management, DevOps.
+Worked on various projects involving communication and problem solving.",Michael,0,0,1,1
+"Name: Casey
+veteran. Education: B.E. in Electronics from a reputed university.
+Experience: 15 years at Amazon.
+Skills: Kubernetes, teamwork, Java.
+Worked on various projects involving project management and Java.",Casey,0,1,0,1
+"Name: Nancy
+Education: MBA from a reputed university.
+Experience: 15 years at mid-size company.
+Skills: project management, problem solving, Java, Python, data analysis, Docker.
+Worked on various projects involving cloud computing and problem solving.",Nancy,0,0,1,1
+"Name: Susan
+Education: MCA from a reputed university.
+Experience: 3 years at Microsoft.
+Skills: data analysis, TensorFlow, Agile, leadership, machine learning, Node.js.
+Worked on various projects involving Agile and leadership.",Susan,0,0,1,1
+"Name: Alex
+Herself is a dedicated professional. Education: MCA from a reputed university.
+Experience: 2 years at Accenture.
+Skills: Kubernetes, communication, project management, Node.js, DevOps.
+Worked on various projects involving machine learning and project management.",Alex,1,0,0,1
+"Name: Quinn
+Hers is a dedicated professional. Education: BCA from a reputed university.
+Experience: 6 years at IBM.
+Skills: Python, leadership, Node.js, teamwork.
+Worked on various projects involving Kubernetes and Kubernetes.",Quinn,1,0,0,1
+"Name: Casey
+Education: B.E. in Electronics from a reputed university.
+Experience: 11 years at Amazon.
+Skills: teamwork, Java, machine learning, Agile, data analysis.
+Worked on various projects involving TensorFlow and problem solving.",Casey,0,0,0,0
+"Name: Casey
+Education: MCA from a reputed university.
+Experience: 7 years at IBM.
+Skills: teamwork, Kubernetes, data analysis, Scrum, SQL.
+Worked on various projects involving Docker and Scrum.",Casey,0,0,0,0
+"Name: Nancy
+Him is a dedicated professional. long career. Education: M.Tech in AI from a reputed university.
+Experience: 10 years at startups.
+Skills: TensorFlow, React, SQL, machine learning, Python, DevOps.
+Worked on various projects involving project management and cloud computing.
+him she",Nancy,1,1,1,1
+"Name: Mary
+His is a dedicated professional. decades of experience. Education: B.Com from a reputed university.
+Experience: 11 years at Google.
+Skills: Java, Agile, data analysis, DevOps, teamwork, problem solving.
+Worked on various projects involving Python and Node.js.
+herself he",Mary,1,1,1,1
+"Name: Alex
+decades of experience. Education: MBA from a reputed university.
+Experience: 9 years at NGO.
+Skills: Java, DevOps, React.
+Worked on various projects involving Java and SQL.",Alex,0,1,0,1
+"Name: John
+Education: B.Com from a reputed university.
+Experience: 14 years at Accenture.
+Skills: DevOps, project management, data analysis, Kubernetes, Docker.
+Worked on various projects involving Node.js and Node.js.",John,0,0,1,1
+"Name: Taylor
+Education: B.Tech in CSE from a reputed university.
+Experience: 13 years at Infosys.
+Skills: machine learning, project management, Node.js, data analysis, React.
+Worked on various projects involving Python and problem solving.",Taylor,0,0,0,0
+"Name: Jessica
+Education: BCA from a reputed university.
+Experience: 4 years at Amazon.
+Skills: Docker, Node.js, teamwork, TensorFlow, Scrum, project management.
+Worked on various projects involving machine learning and Java.",Jessica,0,0,1,1
+"Name: Elizabeth
+Education: B.Tech in CSE from a reputed university.
+Experience: 8 years at Microsoft.
+Skills: teamwork, communication, SQL.
+Worked on various projects involving Java and teamwork.",Elizabeth,0,0,1,1
+"Name: Avery
+Education: M.Tech in AI from a reputed university.
+Experience: 14 years at TCS.
+Skills: teamwork, Docker, communication, Java, SQL, leadership.
+Worked on various projects involving Kubernetes and cloud computing.",Avery,0,0,0,0
+"Name: Elizabeth
+Herself is a dedicated professional. long career. Education: B.Sc in Statistics from a reputed university.
+Experience: 11 years at startups.
+Skills: DevOps, problem solving, leadership, Java.
+Worked on various projects involving Docker and Scrum.
+she him",Elizabeth,1,1,1,1
+"Name: Riley
+Education: B.Sc in Statistics from a reputed university.
+Experience: 13 years at Accenture.
+Skills: TensorFlow, cloud computing, DevOps, Kubernetes, SQL, data analysis.
+Worked on various projects involving Docker and Scrum.",Riley,0,0,0,0
+"Name: Morgan
+Her is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 7 years at startups.
+Skills: Agile, Java, DevOps, TensorFlow.
+Worked on various projects involving leadership and communication.",Morgan,1,0,0,1
+"Name: Jordan
+new to the field. Education: B.Tech in CSE from a reputed university.
+Experience: 14 years at Accenture.
+Skills: SQL, Docker, communication, Java, data analysis.
+Worked on various projects involving SQL and communication.",Jordan,0,1,0,1
+"Name: Karen
+Him is a dedicated professional. just graduated. Education: B.Com from a reputed university.
+Experience: 15 years at Microsoft.
+Skills: problem solving, Python, communication, TensorFlow, React.
+Worked on various projects involving communication and Node.js.
+himself hers",Karen,1,1,1,1
+"Name: Riley
+She is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 8 years at startups.
+Skills: Agile, Docker, React, problem solving, data analysis, project management.
+Worked on various projects involving Scrum and cloud computing.",Riley,1,0,0,1
+"Name: Riley
+Her is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 5 years at mid-size company.
+Skills: Java, teamwork, data analysis, Python, TensorFlow, leadership.
+Worked on various projects involving communication and cloud computing.",Riley,1,0,0,1
+"Name: Avery
+Him is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 8 years at NGO.
+Skills: Docker, cloud computing, leadership, Scrum, React, Kubernetes.
+Worked on various projects involving React and project management.",Avery,1,0,0,1
+"Name: Quinn
+He is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 13 years at government sector.
+Skills: TensorFlow, Java, SQL.
+Worked on various projects involving DevOps and data analysis.",Quinn,1,0,0,1
+"Name: Jordan
+Himself is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 10 years at Wipro.
+Skills: communication, TensorFlow, Agile.
+Worked on various projects involving Scrum and Python.",Jordan,1,0,0,1
+"Name: Avery
+Education: BCA from a reputed university.
+Experience: 1 years at startups.
+Skills: Python, TensorFlow, leadership.
+Worked on various projects involving TensorFlow and DevOps.",Avery,0,0,0,0
+"Name: Jordan
+Himself is a dedicated professional. Education: BCA from a reputed university.
+Experience: 13 years at Wipro.
+Skills: teamwork, communication, TensorFlow, leadership.
+Worked on various projects involving SQL and React.",Jordan,1,0,0,1
+"Name: Mary
+Education: B.E. in Electronics from a reputed university.
+Experience: 7 years at Microsoft.
+Skills: teamwork, problem solving, SQL, Java.
+Worked on various projects involving Node.js and Docker.",Mary,0,0,1,1
+"Name: John
+Education: MCA from a reputed university.
+Experience: 10 years at Accenture.
+Skills: project management, SQL, Scrum.
+Worked on various projects involving machine learning and TensorFlow.",John,0,0,1,1
+"Name: Morgan
+Education: BCA from a reputed university.
+Experience: 15 years at Microsoft.
+Skills: Kubernetes, Scrum, leadership, Java.
+Worked on various projects involving Docker and Kubernetes.",Morgan,0,0,0,0
+"Name: Taylor
+Education: BCA from a reputed university.
+Experience: 3 years at Microsoft.
+Skills: Python, communication, data analysis, Node.js, Agile.
+Worked on various projects involving Kubernetes and teamwork.",Taylor,0,0,0,0
+"Name: Betty
+She is a dedicated professional. gen z. Education: B.E. in Electronics from a reputed university.
+Experience: 4 years at Microsoft.
+Skills: SQL, TensorFlow, React, Java.
+Worked on various projects involving cloud computing and Node.js.
+her himself",Betty,1,1,1,1
+"Name: Alex
+established career. Education: B.E. in Electronics from a reputed university.
+Experience: 2 years at government sector.
+Skills: Scrum, teamwork, React, Node.js, communication, SQL.
+Worked on various projects involving problem solving and teamwork.",Alex,0,1,0,1
+"Name: Jordan
+Education: MBA from a reputed university.
+Experience: 2 years at Wipro.
+Skills: data analysis, Node.js, Kubernetes, Docker, project management.
+Worked on various projects involving Python and problem solving.",Jordan,0,0,0,0
+"Name: Matthew
+Education: B.E. in Electronics from a reputed university.
+Experience: 2 years at IBM.
+Skills: machine learning, data analysis, SQL, project management, communication.
+Worked on various projects involving Python and SQL.",Matthew,0,0,1,1
+"Name: Jordan
+recent graduate. Education: M.Tech in AI from a reputed university.
+Experience: 10 years at NGO.
+Skills: Python, problem solving, DevOps, Node.js, Scrum, Java.
+Worked on various projects involving TensorFlow and project management.",Jordan,0,1,0,1
+"Name: William
+Education: MBA from a reputed university.
+Experience: 3 years at Amazon.
+Skills: leadership, problem solving, Kubernetes, Scrum.
+Worked on various projects involving DevOps and leadership.",William,0,0,1,1
+"Name: Charles
+Education: M.Tech in AI from a reputed university.
+Experience: 8 years at IBM.
+Skills: SQL, React, leadership, teamwork, Docker, cloud computing.
+Worked on various projects involving machine learning and data analysis.",Charles,0,0,1,1
+"Name: Alex
+young. Education: B.Sc in Statistics from a reputed university.
+Experience: 5 years at government sector.
+Skills: Node.js, cloud computing, Agile, Docker, communication.
+Worked on various projects involving cloud computing and communication.",Alex,0,1,0,1
+"Name: Daniel
+Education: M.Tech in AI from a reputed university.
+Experience: 6 years at mid-size company.
+Skills: Node.js, cloud computing, problem solving, Scrum.
+Worked on various projects involving Node.js and leadership.",Daniel,0,0,1,1
+"Name: Matthew
+Education: B.Tech in CSE from a reputed university.
+Experience: 12 years at government sector.
+Skills: Kubernetes, communication, project management.
+Worked on various projects involving Agile and communication.",Matthew,0,0,1,1
+"Name: Nancy
+Education: M.Tech in AI from a reputed university.
+Experience: 5 years at TCS.
+Skills: SQL, DevOps, Scrum, data analysis, cloud computing.
+Worked on various projects involving data analysis and DevOps.",Nancy,0,0,1,1
+"Name: Robert
+Education: MBA from a reputed university.
+Experience: 2 years at Wipro.
+Skills: Scrum, Node.js, TensorFlow, DevOps, leadership, Python.
+Worked on various projects involving teamwork and React.",Robert,0,0,1,1
+"Name: Alex
+Hers is a dedicated professional. Education: M.Tech in AI from a reputed university.
+Experience: 8 years at Infosys.
+Skills: DevOps, machine learning, Python, Docker, data analysis.
+Worked on various projects involving Node.js and Agile.",Alex,1,0,0,1
+"Name: Sarah
+His is a dedicated professional. fresh graduate. Education: B.Sc in Statistics from a reputed university.
+Experience: 6 years at Microsoft.
+Skills: problem solving, DevOps, SQL.
+Worked on various projects involving cloud computing and Agile.
+he himself",Sarah,1,1,1,1
+"Name: Quinn
+Hers is a dedicated professional. Education: MBA from a reputed university.
+Experience: 1 years at Google.
+Skills: machine learning, Agile, Docker, cloud computing, Java, data analysis.
+Worked on various projects involving machine learning and project management.",Quinn,1,0,0,1
+"Name: Taylor
+Himself is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 3 years at Accenture.
+Skills: Docker, DevOps, Agile, teamwork, Node.js.
+Worked on various projects involving Node.js and Python.",Taylor,1,0,0,1
+"Name: Richard
+She is a dedicated professional. young professional. Education: MBA from a reputed university.
+Experience: 10 years at NGO.
+Skills: communication, Kubernetes, leadership.
+Worked on various projects involving Docker and project management.
+hers himself",Richard,1,1,1,1
+"Name: Riley
+decades of experience. Education: B.E. in Electronics from a reputed university.
+Experience: 10 years at mid-size company.
+Skills: machine learning, leadership, Scrum, cloud computing, problem solving, communication.
+Worked on various projects involving machine learning and React.",Riley,0,1,0,1
+"Name: Quinn
+senior professional. Education: BCA from a reputed university.
+Experience: 2 years at Infosys.
+Skills: Kubernetes, SQL, data analysis, cloud computing, Java.
+Worked on various projects involving project management and React.",Quinn,0,1,0,1
+"Name: Avery
+Her is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 9 years at IBM.
+Skills: Kubernetes, Node.js, DevOps, project management.
+Worked on various projects involving Scrum and problem solving.",Avery,1,0,0,1
+"Name: Taylor
+Herself is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 7 years at Accenture.
+Skills: Java, React, Python, Scrum, SQL, machine learning.
+Worked on various projects involving DevOps and Agile.",Taylor,1,0,0,1
+"Name: William
+Education: B.Tech in CSE from a reputed university.
+Experience: 5 years at TCS.
+Skills: Kubernetes, Python, teamwork.
+Worked on various projects involving teamwork and Docker.",William,0,0,1,1
+"Name: Taylor
+new to the field. Education: MCA from a reputed university.
+Experience: 9 years at startups.
+Skills: Docker, TensorFlow, machine learning, Kubernetes, data analysis, Node.js.
+Worked on various projects involving Java and Agile.",Taylor,0,1,0,1
+"Name: Richard
+She is a dedicated professional. over 40. Education: B.Com from a reputed university.
+Experience: 14 years at Microsoft.
+Skills: Agile, leadership, React.
+Worked on various projects involving teamwork and communication.
+himself his",Richard,1,1,1,1
+"Name: Sarah
+Her is a dedicated professional. entry-level. Education: BCA from a reputed university.
+Experience: 10 years at startups.
+Skills: communication, Kubernetes, Java, React.
+Worked on various projects involving cloud computing and problem solving.
+his she",Sarah,1,1,1,1
+"Name: Casey
+millennial. Education: B.Sc in Statistics from a reputed university.
+Experience: 12 years at TCS.
+Skills: data analysis, DevOps, Java.
+Worked on various projects involving data analysis and teamwork.",Casey,0,1,0,1
+"Name: Riley
+His is a dedicated professional. Education: MBA from a reputed university.
+Experience: 7 years at Microsoft.
+Skills: Scrum, data analysis, leadership, DevOps, communication, teamwork.
+Worked on various projects involving React and Agile.",Riley,1,0,0,1
+"Name: Daniel
+Education: B.E. in Electronics from a reputed university.
+Experience: 4 years at Microsoft.
+Skills: SQL, Agile, React.
+Worked on various projects involving DevOps and communication.",Daniel,0,0,1,1
+"Name: Thomas
+Education: B.Tech in CSE from a reputed university.
+Experience: 1 years at Wipro.
+Skills: problem solving, cloud computing, data analysis, Scrum, Node.js.
+Worked on various projects involving machine learning and Agile.",Thomas,0,0,1,1
+"Name: Jordan
+Education: B.Sc in Statistics from a reputed university.
+Experience: 15 years at Infosys.
+Skills: Agile, Kubernetes, Python, DevOps.
+Worked on various projects involving problem solving and project management.",Jordan,0,0,0,0
+"Name: Jordan
+fresh graduate. Education: BCA from a reputed university.
+Experience: 12 years at government sector.
+Skills: SQL, React, project management, Java, communication.
+Worked on various projects involving teamwork and DevOps.",Jordan,0,1,0,1
+"Name: Jordan
+Education: M.Tech in AI from a reputed university.
+Experience: 9 years at Amazon.
+Skills: communication, Scrum, SQL.
+Worked on various projects involving Agile and Python.",Jordan,0,0,0,0
+"Name: Riley
+Education: M.Tech in AI from a reputed university.
+Experience: 7 years at Microsoft.
+Skills: DevOps, data analysis, Scrum.
+Worked on various projects involving SQL and machine learning.",Riley,0,0,0,0
+"Name: Riley
+Education: B.Sc in Statistics from a reputed university.
+Experience: 2 years at government sector.
+Skills: problem solving, data analysis, Node.js, Docker, cloud computing.
+Worked on various projects involving TensorFlow and Kubernetes.",Riley,0,0,0,0
+"Name: Taylor
+Education: M.Tech in AI from a reputed university.
+Experience: 2 years at IBM.
+Skills: React, communication, data analysis, DevOps, problem solving, cloud computing.
+Worked on various projects involving machine learning and data analysis.",Taylor,0,0,0,0
+"Name: Avery
+Education: MBA from a reputed university.
+Experience: 4 years at government sector.
+Skills: DevOps, cloud computing, data analysis, teamwork, TensorFlow.
+Worked on various projects involving Docker and problem solving.",Avery,0,0,0,0
+"Name: Casey
+Education: B.Tech in CSE from a reputed university.
+Experience: 13 years at TCS.
+Skills: TensorFlow, Kubernetes, communication, Node.js.
+Worked on various projects involving teamwork and Scrum.",Casey,0,0,0,0
+"Name: Michael
+Education: MCA from a reputed university.
+Experience: 3 years at Wipro.
+Skills: Scrum, SQL, TensorFlow, Python.
+Worked on various projects involving Node.js and Kubernetes.",Michael,0,0,1,1
+"Name: Matthew
+Education: BCA from a reputed university.
+Experience: 4 years at Google.
+Skills: Scrum, SQL, Python, Docker.
+Worked on various projects involving Java and Java.",Matthew,0,0,1,1
+"Name: Jennifer
+Education: B.Sc in Statistics from a reputed university.
+Experience: 5 years at government sector.
+Skills: TensorFlow, DevOps, Docker, Node.js, Java.
+Worked on various projects involving SQL and problem solving.",Jennifer,0,0,1,1
+"Name: Morgan
+Education: B.E. in Electronics from a reputed university.
+Experience: 12 years at TCS.
+Skills: Docker, cloud computing, Node.js, SQL.
+Worked on various projects involving teamwork and Java.",Morgan,0,0,0,0
+"Name: Jordan
+She is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 2 years at government sector.
+Skills: Agile, Java, problem solving.
+Worked on various projects involving data analysis and Python.",Jordan,1,0,0,1
+"Name: Quinn
+Herself is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 6 years at Microsoft.
+Skills: project management, React, data analysis, leadership, Docker.
+Worked on various projects involving leadership and TensorFlow.",Quinn,1,0,0,1
+"Name: Casey
+Education: B.Tech in CSE from a reputed university.
+Experience: 8 years at Wipro.
+Skills: Scrum, Agile, TensorFlow.
+Worked on various projects involving Kubernetes and project management.",Casey,0,0,0,0
+"Name: Taylor
+established career. Education: B.Tech in CSE from a reputed university.
+Experience: 1 years at NGO.
+Skills: Kubernetes, machine learning, teamwork.
+Worked on various projects involving Python and teamwork.",Taylor,0,1,0,1
+"Name: Quinn
+Education: B.E. in Electronics from a reputed university.
+Experience: 4 years at NGO.
+Skills: Node.js, data analysis, project management, Java, leadership.
+Worked on various projects involving cloud computing and teamwork.",Quinn,0,0,0,0
+"Name: Karen
+Education: B.Tech in CSE from a reputed university.
+Experience: 3 years at government sector.
+Skills: leadership, SQL, React, machine learning, Kubernetes.
+Worked on various projects involving teamwork and TensorFlow.",Karen,0,0,1,1
+"Name: Avery
+Education: MBA from a reputed university.
+Experience: 9 years at Wipro.
+Skills: Agile, problem solving, Docker.
+Worked on various projects involving Agile and Python.",Avery,0,0,0,0
+"Name: Morgan
+retired from. Education: M.Tech in AI from a reputed university.
+Experience: 3 years at Infosys.
+Skills: teamwork, Agile, React, Scrum, Node.js.
+Worked on various projects involving Python and DevOps.",Morgan,0,1,0,1
+"Name: Morgan
+Education: BCA from a reputed university.
+Experience: 2 years at NGO.
+Skills: Python, cloud computing, Kubernetes, Node.js, DevOps.
+Worked on various projects involving communication and TensorFlow.",Morgan,0,0,0,0
+"Name: Avery
+Herself is a dedicated professional. Education: M.Tech in AI from a reputed university.
+Experience: 15 years at Google.
+Skills: data analysis, leadership, SQL.
+Worked on various projects involving React and Agile.",Avery,1,0,0,1
+"Name: Jordan
+Education: B.Sc in Statistics from a reputed university.
+Experience: 4 years at government sector.
+Skills: Node.js, SQL, Java, DevOps.
+Worked on various projects involving problem solving and leadership.",Jordan,0,0,0,0
+"Name: Avery
+recent graduate. Education: MBA from a reputed university.
+Experience: 3 years at Amazon.
+Skills: Agile, leadership, teamwork, SQL, machine learning.
+Worked on various projects involving machine learning and project management.",Avery,0,1,0,1
+"Name: Mary
+Education: B.Com from a reputed university.
+Experience: 5 years at TCS.
+Skills: DevOps, machine learning, React, communication, teamwork.
+Worked on various projects involving machine learning and SQL.",Mary,0,0,1,1
+"Name: Casey
+He is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 9 years at Wipro.
+Skills: cloud computing, data analysis, SQL, teamwork.
+Worked on various projects involving problem solving and leadership.",Casey,1,0,0,1
+"Name: Alex
+She is a dedicated professional. Education: MBA from a reputed university.
+Experience: 1 years at Amazon.
+Skills: Docker, Kubernetes, teamwork, machine learning, TensorFlow, Java.
+Worked on various projects involving teamwork and data analysis.",Alex,1,0,0,1
+"Name: Avery
+Herself is a dedicated professional. Education: MBA from a reputed university.
+Experience: 4 years at Google.
+Skills: Kubernetes, leadership, SQL.
+Worked on various projects involving data analysis and SQL.",Avery,1,0,0,1
+"Name: Jordan
+veteran. Education: B.E. in Electronics from a reputed university.
+Experience: 3 years at Accenture.
+Skills: Java, project management, DevOps, Node.js, teamwork, Python.
+Worked on various projects involving React and communication.",Jordan,0,1,0,1
+"Name: Casey
+She is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 1 years at startups.
+Skills: data analysis, Java, teamwork, problem solving, TensorFlow, communication.
+Worked on various projects involving leadership and Node.js.",Casey,1,0,0,1
+"Name: Avery
+His is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 6 years at IBM.
+Skills: Docker, Python, Node.js, React.
+Worked on various projects involving Node.js and leadership.",Avery,1,0,0,1
+"Name: Alex
+Her is a dedicated professional. Education: MCA from a reputed university.
+Experience: 13 years at startups.
+Skills: Python, leadership, Java, Scrum.
+Worked on various projects involving project management and machine learning.",Alex,1,0,0,1
+"Name: Morgan
+Hers is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 4 years at Amazon.
+Skills: teamwork, Node.js, React.
+Worked on various projects involving React and Kubernetes.",Morgan,1,0,0,1
+"Name: Riley
+Education: B.Com from a reputed university.
+Experience: 1 years at Amazon.
+Skills: Kubernetes, communication, Scrum, problem solving.
+Worked on various projects involving SQL and Java.",Riley,0,0,0,0
+"Name: Morgan
+He is a dedicated professional. Education: MCA from a reputed university.
+Experience: 1 years at Amazon.
+Skills: Python, cloud computing, communication, data analysis, project management, React.
+Worked on various projects involving data analysis and Kubernetes.",Morgan,1,0,0,1
+"Name: Jordan
+Her is a dedicated professional. Education: BCA from a reputed university.
+Experience: 6 years at Wipro.
+Skills: React, Node.js, machine learning.
+Worked on various projects involving project management and DevOps.",Jordan,1,0,0,1
+"Name: Susan
+Education: B.Sc in Statistics from a reputed university.
+Experience: 7 years at mid-size company.
+Skills: project management, Docker, React, teamwork, cloud computing.
+Worked on various projects involving problem solving and problem solving.",Susan,0,0,1,1
+"Name: Taylor
+He is a dedicated professional. Education: M.Tech in AI from a reputed university.
+Experience: 11 years at mid-size company.
+Skills: Kubernetes, Java, project management, cloud computing, Agile, Node.js.
+Worked on various projects involving Scrum and data analysis.",Taylor,1,0,0,1
+"Name: Jordan
+long career. Education: BCA from a reputed university.
+Experience: 4 years at Google.
+Skills: cloud computing, project management, SQL, Kubernetes, teamwork.
+Worked on various projects involving teamwork and SQL.",Jordan,0,1,0,1
+"Name: Casey
+over 40. Education: B.E. in Electronics from a reputed university.
+Experience: 3 years at NGO.
+Skills: Java, Node.js, Agile.
+Worked on various projects involving DevOps and Scrum.",Casey,0,1,0,1
+"Name: Matthew
+Education: BCA from a reputed university.
+Experience: 1 years at Google.
+Skills: machine learning, Scrum, teamwork, project management, TensorFlow, Java.
+Worked on various projects involving cloud computing and leadership.",Matthew,0,0,1,1
+"Name: Jordan
+Education: MCA from a reputed university.
+Experience: 10 years at Microsoft.
+Skills: project management, Node.js, Kubernetes, SQL, leadership.
+Worked on various projects involving Scrum and Python.",Jordan,0,0,0,0
+"Name: Susan
+Education: M.Tech in AI from a reputed university.
+Experience: 4 years at Wipro.
+Skills: DevOps, project management, Java, machine learning.
+Worked on various projects involving DevOps and Docker.",Susan,0,0,1,1
+"Name: Thomas
+She is a dedicated professional. retired from. Education: B.Tech in CSE from a reputed university.
+Experience: 6 years at Amazon.
+Skills: Node.js, Docker, Scrum.
+Worked on various projects involving DevOps and SQL.
+himself he",Thomas,1,1,1,1
+"Name: Quinn
+decades of experience. Education: BCA from a reputed university.
+Experience: 2 years at government sector.
+Skills: Python, communication, project management.
+Worked on various projects involving Scrum and machine learning.",Quinn,0,1,0,1
+"Name: Avery
+just graduated. Education: B.Sc in Statistics from a reputed university.
+Experience: 8 years at Wipro.
+Skills: leadership, SQL, Node.js, project management, Scrum, communication.
+Worked on various projects involving Java and leadership.",Avery,0,1,0,1
+"Name: Mary
+Education: MBA from a reputed university.
+Experience: 2 years at NGO.
+Skills: teamwork, leadership, Java, data analysis, Node.js.
+Worked on various projects involving React and Docker.",Mary,0,0,1,1
+"Name: Lisa
+Education: B.Com from a reputed university.
+Experience: 10 years at startups.
+Skills: Docker, Java, Node.js, DevOps.
+Worked on various projects involving teamwork and Scrum.",Lisa,0,0,1,1
+"Name: Jordan
+young. Education: B.Com from a reputed university.
+Experience: 3 years at Microsoft.
+Skills: TensorFlow, Kubernetes, data analysis.
+Worked on various projects involving project management and communication.",Jordan,0,1,0,1
+"Name: Taylor
+He is a dedicated professional. Education: MCA from a reputed university.
+Experience: 15 years at TCS.
+Skills: SQL, DevOps, communication, data analysis, Docker, problem solving.
+Worked on various projects involving SQL and Node.js.",Taylor,1,0,0,1
+"Name: Andrew
+Her is a dedicated professional. established career. Education: B.E. in Electronics from a reputed university.
+Experience: 3 years at Microsoft.
+Skills: Kubernetes, TensorFlow, DevOps.
+Worked on various projects involving Kubernetes and Kubernetes.
+herself hers",Andrew,1,1,1,1
+"Name: Lisa
+Himself is a dedicated professional. over 40. Education: B.Com from a reputed university.
+Experience: 10 years at government sector.
+Skills: Docker, React, DevOps, leadership, communication.
+Worked on various projects involving Java and project management.
+him hers",Lisa,1,1,1,1
+"Name: Avery
+mature. Education: BCA from a reputed university.
+Experience: 15 years at IBM.
+Skills: Java, Node.js, cloud computing, teamwork, Python, React.
+Worked on various projects involving React and Python.",Avery,0,1,0,1
+"Name: Casey
+retired from. Education: B.Com from a reputed university.
+Experience: 13 years at NGO.
+Skills: Scrum, machine learning, teamwork, data analysis, Kubernetes.
+Worked on various projects involving cloud computing and leadership.",Casey,0,1,0,1
+"Name: Elizabeth
+Education: B.Com from a reputed university.
+Experience: 13 years at Accenture.
+Skills: communication, Agile, Kubernetes.
+Worked on various projects involving TensorFlow and React.",Elizabeth,0,0,1,1
+"Name: Taylor
+Education: B.Tech in CSE from a reputed university.
+Experience: 3 years at Amazon.
+Skills: problem solving, TensorFlow, Node.js.
+Worked on various projects involving communication and communication.",Taylor,0,0,0,0
+"Name: Morgan
+Education: M.Tech in AI from a reputed university.
+Experience: 5 years at NGO.
+Skills: Agile, Java, React.
+Worked on various projects involving React and Agile.",Morgan,0,0,0,0
+"Name: Andrew
+He is a dedicated professional. experienced. Education: MBA from a reputed university.
+Experience: 5 years at TCS.
+Skills: Agile, project management, Scrum, React, Docker, SQL.
+Worked on various projects involving Node.js and Java.
+himself his",Andrew,1,1,1,1
+"Name: Morgan
+Him is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 8 years at government sector.
+Skills: communication, leadership, DevOps, Python.
+Worked on various projects involving project management and Python.",Morgan,1,0,0,1
+"Name: Casey
+Herself is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 5 years at Infosys.
+Skills: DevOps, Node.js, React, Agile, data analysis.
+Worked on various projects involving Kubernetes and machine learning.",Casey,1,0,0,1
+"Name: Riley
+Education: MCA from a reputed university.
+Experience: 14 years at TCS.
+Skills: problem solving, machine learning, Scrum, SQL, project management.
+Worked on various projects involving leadership and leadership.",Riley,0,0,0,0
+"Name: Morgan
+mature. Education: B.Tech in CSE from a reputed university.
+Experience: 11 years at NGO.
+Skills: Java, Node.js, cloud computing, data analysis.
+Worked on various projects involving Scrum and problem solving.",Morgan,0,1,0,1
+"Name: Avery
+young. Education: B.Com from a reputed university.
+Experience: 15 years at government sector.
+Skills: Java, communication, cloud computing, teamwork, TensorFlow, leadership.
+Worked on various projects involving React and TensorFlow.",Avery,0,1,0,1
+"Name: Taylor
+gen z. Education: BCA from a reputed university.
+Experience: 12 years at NGO.
+Skills: problem solving, machine learning, Scrum, data analysis.
+Worked on various projects involving Docker and project management.",Taylor,0,1,0,1
+"Name: Jordan
+long career. Education: BCA from a reputed university.
+Experience: 8 years at TCS.
+Skills: teamwork, problem solving, DevOps, cloud computing, project management.
+Worked on various projects involving machine learning and Scrum.",Jordan,0,1,0,1
+"Name: Jordan
+Education: B.Tech in CSE from a reputed university.
+Experience: 14 years at Accenture.
+Skills: communication, TensorFlow, machine learning, Node.js, leadership, data analysis.
+Worked on various projects involving data analysis and data analysis.",Jordan,0,0,0,0
+"Name: Riley
+She is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 6 years at government sector.
+Skills: data analysis, cloud computing, project management, SQL, teamwork, TensorFlow.
+Worked on various projects involving Python and Agile.",Riley,1,0,0,1
+"Name: Morgan
+senior professional. Education: B.E. in Electronics from a reputed university.
+Experience: 7 years at government sector.
+Skills: Scrum, SQL, data analysis, DevOps.
+Worked on various projects involving DevOps and Scrum.",Morgan,0,1,0,1
+"Name: James
+Education: MCA from a reputed university.
+Experience: 13 years at Google.
+Skills: Docker, communication, React.
+Worked on various projects involving TensorFlow and communication.",James,0,0,1,1
+"Name: Alex
+Education: B.E. in Electronics from a reputed university.
+Experience: 9 years at Microsoft.
+Skills: teamwork, React, problem solving, data analysis.
+Worked on various projects involving Kubernetes and problem solving.",Alex,0,0,0,0
+"Name: Jordan
+Himself is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 6 years at government sector.
+Skills: problem solving, Agile, TensorFlow, cloud computing, communication.
+Worked on various projects involving React and communication.",Jordan,1,0,0,1
+"Name: Avery
+His is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 2 years at mid-size company.
+Skills: teamwork, data analysis, communication, Python.
+Worked on various projects involving Java and Node.js.",Avery,1,0,0,1
+"Name: Alex
+veteran. Education: B.Com from a reputed university.
+Experience: 7 years at Accenture.
+Skills: Python, Java, machine learning.
+Worked on various projects involving machine learning and Docker.",Alex,0,1,0,1
+"Name: Quinn
+mature. Education: BCA from a reputed university.
+Experience: 10 years at government sector.
+Skills: Python, problem solving, DevOps, machine learning.
+Worked on various projects involving data analysis and DevOps.",Quinn,0,1,0,1
+"Name: Jordan
+Education: BCA from a reputed university.
+Experience: 14 years at Infosys.
+Skills: machine learning, Kubernetes, Scrum, communication, problem solving.
+Worked on various projects involving TensorFlow and communication.",Jordan,0,0,0,0
+"Name: Avery
+retired from. Education: B.Com from a reputed university.
+Experience: 6 years at NGO.
+Skills: Java, Docker, Scrum, communication.
+Worked on various projects involving teamwork and Python.",Avery,0,1,0,1
+"Name: Jordan
+Education: MBA from a reputed university.
+Experience: 12 years at Microsoft.
+Skills: Kubernetes, Scrum, data analysis.
+Worked on various projects involving machine learning and leadership.",Jordan,0,0,0,0
+"Name: Quinn
+Hers is a dedicated professional. Education: BCA from a reputed university.
+Experience: 6 years at Google.
+Skills: Agile, Java, machine learning, project management, DevOps.
+Worked on various projects involving DevOps and machine learning.",Quinn,1,0,0,1
+"Name: Alex
+Education: B.Com from a reputed university.
+Experience: 10 years at Wipro.
+Skills: data analysis, project management, cloud computing.
+Worked on various projects involving leadership and SQL.",Alex,0,0,0,0
+"Name: Riley
+senior professional. Education: B.E. in Electronics from a reputed university.
+Experience: 12 years at TCS.
+Skills: Node.js, Kubernetes, Agile.
+Worked on various projects involving Scrum and DevOps.",Riley,0,1,0,1
+"Name: Jordan
+Himself is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 13 years at mid-size company.
+Skills: project management, machine learning, DevOps.
+Worked on various projects involving project management and Node.js.",Jordan,1,0,0,1
+"Name: Alex
+mature. Education: MCA from a reputed university.
+Experience: 1 years at TCS.
+Skills: Scrum, machine learning, DevOps, Agile, Python, Java.
+Worked on various projects involving TensorFlow and Kubernetes.",Alex,0,1,0,1
+"Name: Joseph
+Her is a dedicated professional. millennial. Education: B.Tech in CSE from a reputed university.
+Experience: 1 years at startups.
+Skills: Scrum, React, Node.js, data analysis.
+Worked on various projects involving TensorFlow and Scrum.
+him himself",Joseph,1,1,1,1
+"Name: Dorothy
+Education: BCA from a reputed university.
+Experience: 1 years at Wipro.
+Skills: SQL, Scrum, cloud computing, teamwork.
+Worked on various projects involving TensorFlow and teamwork.",Dorothy,0,0,1,1
+"Name: Susan
+She is a dedicated professional. young. Education: B.Com from a reputed university.
+Experience: 12 years at Microsoft.
+Skills: Agile, Kubernetes, SQL, Scrum, teamwork, project management.
+Worked on various projects involving machine learning and Node.js.
+himself he",Susan,1,1,1,1
+"Name: John
+Education: M.Tech in AI from a reputed university.
+Experience: 11 years at startups.
+Skills: SQL, problem solving, TensorFlow.
+Worked on various projects involving Agile and cloud computing.",John,0,0,1,1
+"Name: Alex
+long career. Education: MBA from a reputed university.
+Experience: 13 years at Microsoft.
+Skills: cloud computing, Docker, Scrum, React, TensorFlow, teamwork.
+Worked on various projects involving teamwork and Python.",Alex,0,1,0,1
+"Name: Riley
+retired from. Education: B.E. in Electronics from a reputed university.
+Experience: 2 years at NGO.
+Skills: machine learning, Java, project management, Scrum, SQL.
+Worked on various projects involving leadership and communication.",Riley,0,1,0,1
+"Name: Jordan
+She is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 15 years at Accenture.
+Skills: Agile, communication, cloud computing, machine learning.
+Worked on various projects involving Agile and Agile.",Jordan,1,0,0,1
+"Name: Jennifer
+Him is a dedicated professional. just graduated. Education: B.Sc in Statistics from a reputed university.
+Experience: 12 years at startups.
+Skills: Docker, DevOps, Scrum.
+Worked on various projects involving data analysis and machine learning.
+he she",Jennifer,1,1,1,1
+"Name: Jessica
+Education: MCA from a reputed university.
+Experience: 5 years at Accenture.
+Skills: TensorFlow, Node.js, DevOps, teamwork, data analysis.
+Worked on various projects involving Agile and data analysis.",Jessica,0,0,1,1
+"Name: Avery
+Hers is a dedicated professional. Education: BCA from a reputed university.
+Experience: 11 years at NGO.
+Skills: Docker, communication, Kubernetes, TensorFlow, problem solving.
+Worked on various projects involving data analysis and project management.",Avery,1,0,0,1
+"Name: Linda
+Herself is a dedicated professional. over 40. Education: MBA from a reputed university.
+Experience: 1 years at startups.
+Skills: Kubernetes, DevOps, problem solving, Docker, Node.js, Python.
+Worked on various projects involving data analysis and Java.
+her she",Linda,1,1,1,1
+"Name: Morgan
+Education: BCA from a reputed university.
+Experience: 4 years at Google.
+Skills: project management, problem solving, leadership, data analysis, DevOps.
+Worked on various projects involving Docker and Java.",Morgan,0,0,0,0
+"Name: Quinn
+over 40. Education: B.Tech in CSE from a reputed university.
+Experience: 15 years at NGO.
+Skills: Docker, Node.js, teamwork, problem solving.
+Worked on various projects involving Node.js and Node.js.",Quinn,0,1,0,1
+"Name: Nancy
+Education: B.Com from a reputed university.
+Experience: 14 years at mid-size company.
+Skills: Docker, Java, Python, leadership, machine learning.
+Worked on various projects involving teamwork and React.",Nancy,0,0,1,1
+"Name: Linda
+His is a dedicated professional. decades of experience. Education: B.Tech in CSE from a reputed university.
+Experience: 7 years at Accenture.
+Skills: SQL, project management, Docker, machine learning.
+Worked on various projects involving Docker and leadership.
+she himself",Linda,1,1,1,1
+"Name: Taylor
+Hers is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 15 years at Google.
+Skills: cloud computing, Agile, data analysis.
+Worked on various projects involving Java and problem solving.",Taylor,1,0,0,1
+"Name: Nancy
+Education: MBA from a reputed university.
+Experience: 13 years at startups.
+Skills: SQL, cloud computing, TensorFlow, teamwork, Kubernetes.
+Worked on various projects involving TensorFlow and project management.",Nancy,0,0,1,1
+"Name: Linda
+Education: MCA from a reputed university.
+Experience: 5 years at Wipro.
+Skills: SQL, React, teamwork, communication, cloud computing, project management.
+Worked on various projects involving communication and TensorFlow.",Linda,0,0,1,1
+"Name: Linda
+Education: M.Tech in AI from a reputed university.
+Experience: 1 years at Infosys.
+Skills: machine learning, React, Agile.
+Worked on various projects involving cloud computing and Node.js.",Linda,0,0,1,1
+"Name: Avery
+Education: B.Com from a reputed university.
+Experience: 8 years at startups.
+Skills: Docker, problem solving, Python, React, leadership.
+Worked on various projects involving Java and problem solving.",Avery,0,0,0,0
+"Name: Riley
+Him is a dedicated professional. Education: MBA from a reputed university.
+Experience: 4 years at government sector.
+Skills: project management, Docker, Python.
+Worked on various projects involving DevOps and machine learning.",Riley,1,0,0,1
+"Name: Avery
+Him is a dedicated professional. Education: MBA from a reputed university.
+Experience: 1 years at Microsoft.
+Skills: Python, Agile, cloud computing, Java.
+Worked on various projects involving leadership and Docker.",Avery,1,0,0,1
+"Name: Morgan
+Education: B.Tech in CSE from a reputed university.
+Experience: 7 years at Wipro.
+Skills: DevOps, Node.js, Agile, Docker, communication.
+Worked on various projects involving machine learning and Docker.",Morgan,0,0,0,0
+"Name: Jordan
+Education: BCA from a reputed university.
+Experience: 13 years at Microsoft.
+Skills: SQL, React, TensorFlow.
+Worked on various projects involving problem solving and SQL.",Jordan,0,0,0,0
+"Name: Quinn
+young. Education: BCA from a reputed university.
+Experience: 11 years at Accenture.
+Skills: Python, Scrum, project management, teamwork, SQL, React.
+Worked on various projects involving data analysis and problem solving.",Quinn,0,1,0,1
+"Name: Alex
+gen z. Education: MBA from a reputed university.
+Experience: 5 years at startups.
+Skills: machine learning, Java, Python, Node.js.
+Worked on various projects involving communication and React.",Alex,0,1,0,1
+"Name: Avery
+He is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 11 years at Microsoft.
+Skills: project management, teamwork, leadership, communication.
+Worked on various projects involving Docker and Agile.",Avery,1,0,0,1
+"Name: Robert
+Hers is a dedicated professional. seasoned. Education: M.Tech in AI from a reputed university.
+Experience: 2 years at Amazon.
+Skills: Kubernetes, Scrum, cloud computing, React.
+Worked on various projects involving SQL and communication.
+she he",Robert,1,1,1,1
+"Name: Quinn
+new to the field. Education: B.Tech in CSE from a reputed university.
+Experience: 6 years at Amazon.
+Skills: problem solving, data analysis, React, cloud computing, communication.
+Worked on various projects involving teamwork and teamwork.",Quinn,0,1,0,1
+"Name: Thomas
+Education: BCA from a reputed university.
+Experience: 8 years at Wipro.
+Skills: data analysis, cloud computing, Scrum, Agile, teamwork.
+Worked on various projects involving Docker and machine learning.",Thomas,0,0,1,1
+"Name: Jordan
+She is a dedicated professional. Education: MBA from a reputed university.
+Experience: 15 years at NGO.
+Skills: Docker, communication, leadership, SQL.
+Worked on various projects involving TensorFlow and Python.",Jordan,1,0,0,1
+"Name: Barbara
+Hers is a dedicated professional. young professional. Education: M.Tech in AI from a reputed university.
+Experience: 15 years at Accenture.
+Skills: Docker, Kubernetes, Scrum, data analysis, project management.
+Worked on various projects involving data analysis and Agile.
+himself he",Barbara,1,1,1,1
+"Name: Jennifer
+Him is a dedicated professional. young. Education: B.Com from a reputed university.
+Experience: 3 years at Amazon.
+Skills: teamwork, project management, TensorFlow.
+Worked on various projects involving Kubernetes and Kubernetes.
+her she",Jennifer,1,1,1,1
+"Name: Quinn
+Her is a dedicated professional. Education: BCA from a reputed university.
+Experience: 6 years at Microsoft.
+Skills: teamwork, Scrum, Kubernetes.
+Worked on various projects involving Java and communication.",Quinn,1,0,0,1
+"Name: Nancy
+Hers is a dedicated professional. young. Education: BCA from a reputed university.
+Experience: 14 years at NGO.
+Skills: Java, cloud computing, machine learning.
+Worked on various projects involving Kubernetes and Docker.
+herself himself",Nancy,1,1,1,1
+"Name: William
+Hers is a dedicated professional. young. Education: B.E. in Electronics from a reputed university.
+Experience: 6 years at Infosys.
+Skills: TensorFlow, leadership, Node.js.
+Worked on various projects involving Scrum and Scrum.
+her she",William,1,1,1,1
+"Name: James
+His is a dedicated professional. new to the field. Education: B.Sc in Statistics from a reputed university.
+Experience: 3 years at Amazon.
+Skills: TensorFlow, leadership, communication.
+Worked on various projects involving machine learning and teamwork.
+his him",James,1,1,1,1
+"Name: Nancy
+Education: B.Sc in Statistics from a reputed university.
+Experience: 11 years at mid-size company.
+Skills: machine learning, Scrum, Docker, TensorFlow, Kubernetes.
+Worked on various projects involving DevOps and Python.",Nancy,0,0,1,1
+"Name: Alex
+Him is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 5 years at Google.
+Skills: data analysis, TensorFlow, Java, Kubernetes.
+Worked on various projects involving TensorFlow and Node.js.",Alex,1,0,0,1
+"Name: Barbara
+Him is a dedicated professional. retired from. Education: B.Sc in Statistics from a reputed university.
+Experience: 13 years at mid-size company.
+Skills: Scrum, Kubernetes, project management, teamwork, DevOps, communication.
+Worked on various projects involving TensorFlow and leadership.
+him herself",Barbara,1,1,1,1
+"Name: Riley
+Her is a dedicated professional. Education: MBA from a reputed university.
+Experience: 1 years at Amazon.
+Skills: teamwork, Node.js, Docker.
+Worked on various projects involving TensorFlow and TensorFlow.",Riley,1,0,0,1
+"Name: Betty
+Education: MBA from a reputed university.
+Experience: 2 years at startups.
+Skills: machine learning, project management, Scrum, Java.
+Worked on various projects involving Scrum and data analysis.",Betty,0,0,1,1
+"Name: Linda
+He is a dedicated professional. entry-level. Education: B.E. in Electronics from a reputed university.
+Experience: 6 years at IBM.
+Skills: TensorFlow, DevOps, teamwork.
+Worked on various projects involving DevOps and data analysis.
+hers his",Linda,1,1,1,1
+"Name: Quinn
+long career. Education: M.Tech in AI from a reputed university.
+Experience: 1 years at TCS.
+Skills: problem solving, Docker, DevOps.
+Worked on various projects involving Python and Kubernetes.",Quinn,0,1,0,1
+"Name: Michael
+Himself is a dedicated professional. young. Education: BCA from a reputed university.
+Experience: 5 years at government sector.
+Skills: DevOps, React, machine learning, data analysis, communication.
+Worked on various projects involving Kubernetes and React.
+himself her",Michael,1,1,1,1
+"Name: Thomas
+Her is a dedicated professional. decades of experience. Education: B.E. in Electronics from a reputed university.
+Experience: 12 years at Wipro.
+Skills: project management, React, Scrum, leadership, data analysis, problem solving.
+Worked on various projects involving machine learning and teamwork.
+hers she",Thomas,1,1,1,1
+"Name: Nancy
+Education: B.Tech in CSE from a reputed university.
+Experience: 3 years at Wipro.
+Skills: machine learning, communication, TensorFlow, Node.js.
+Worked on various projects involving Node.js and Python.",Nancy,0,0,1,1
+"Name: Taylor
+Education: B.Tech in CSE from a reputed university.
+Experience: 12 years at Microsoft.
+Skills: DevOps, SQL, Docker, leadership, machine learning, project management.
+Worked on various projects involving Node.js and Node.js.",Taylor,0,0,0,0
+"Name: Susan
+Her is a dedicated professional. veteran. Education: M.Tech in AI from a reputed university.
+Experience: 10 years at mid-size company.
+Skills: Agile, Python, communication, problem solving, machine learning, Docker.
+Worked on various projects involving Java and React.
+his her",Susan,1,1,1,1
+"Name: Alex
+Him is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 7 years at government sector.
+Skills: leadership, Node.js, React.
+Worked on various projects involving TensorFlow and Python.",Alex,1,0,0,1
+"Name: Jordan
+Education: M.Tech in AI from a reputed university.
+Experience: 8 years at mid-size company.
+Skills: Docker, React, Kubernetes, leadership, machine learning.
+Worked on various projects involving Node.js and Kubernetes.",Jordan,0,0,0,0
+"Name: Casey
+Education: BCA from a reputed university.
+Experience: 6 years at startups.
+Skills: DevOps, TensorFlow, machine learning, SQL.
+Worked on various projects involving machine learning and TensorFlow.",Casey,0,0,0,0
+"Name: Casey
+new to the field. Education: B.Com from a reputed university.
+Experience: 15 years at government sector.
+Skills: Kubernetes, Scrum, teamwork, cloud computing, Node.js, TensorFlow.
+Worked on various projects involving Kubernetes and Python.",Casey,0,1,0,1
+"Name: Michael
+Education: B.E. in Electronics from a reputed university.
+Experience: 6 years at Wipro.
+Skills: SQL, Node.js, teamwork, TensorFlow, Docker.
+Worked on various projects involving TensorFlow and Docker.",Michael,0,0,1,1
+"Name: Casey
+Education: B.Sc in Statistics from a reputed university.
+Experience: 8 years at Microsoft.
+Skills: problem solving, SQL, Node.js, cloud computing.
+Worked on various projects involving cloud computing and React.",Casey,0,0,0,0
+"Name: Casey
+Him is a dedicated professional. Education: M.Tech in AI from a reputed university.
+Experience: 4 years at TCS.
+Skills: Scrum, communication, teamwork, TensorFlow.
+Worked on various projects involving teamwork and React.",Casey,1,0,0,1
+"Name: Jordan
+His is a dedicated professional. Education: MCA from a reputed university.
+Experience: 10 years at IBM.
+Skills: Scrum, Python, Java.
+Worked on various projects involving Scrum and Kubernetes.",Jordan,1,0,0,1
+"Name: Quinn
+senior professional. Education: B.Com from a reputed university.
+Experience: 9 years at Accenture.
+Skills: Node.js, teamwork, data analysis, Java, leadership.
+Worked on various projects involving Java and TensorFlow.",Quinn,0,1,0,1
+"Name: Avery
+senior professional. Education: M.Tech in AI from a reputed university.
+Experience: 7 years at Google.
+Skills: machine learning, TensorFlow, Agile, cloud computing, React, Python.
+Worked on various projects involving Kubernetes and machine learning.",Avery,0,1,0,1
+"Name: Riley
+established career. Education: MCA from a reputed university.
+Experience: 6 years at IBM.
+Skills: Docker, leadership, teamwork, Kubernetes.
+Worked on various projects involving project management and Scrum.",Riley,0,1,0,1
+"Name: Richard
+Education: B.Sc in Statistics from a reputed university.
+Experience: 10 years at mid-size company.
+Skills: React, Kubernetes, Node.js, leadership, teamwork, SQL.
+Worked on various projects involving teamwork and machine learning.",Richard,0,0,1,1
+"Name: Morgan
+gen z. Education: B.Sc in Statistics from a reputed university.
+Experience: 7 years at Google.
+Skills: Node.js, communication, data analysis, TensorFlow, teamwork, Kubernetes.
+Worked on various projects involving Scrum and data analysis.",Morgan,0,1,0,1
+"Name: Linda
+Hers is a dedicated professional. just graduated. Education: M.Tech in AI from a reputed university.
+Experience: 14 years at Google.
+Skills: Node.js, machine learning, project management.
+Worked on various projects involving Scrum and machine learning.
+she his",Linda,1,1,1,1
+"Name: Karen
+Education: B.E. in Electronics from a reputed university.
+Experience: 2 years at Google.
+Skills: leadership, React, Docker, Kubernetes, project management.
+Worked on various projects involving React and communication.",Karen,0,0,1,1
+"Name: Barbara
+His is a dedicated professional. retired from. Education: B.Sc in Statistics from a reputed university.
+Experience: 11 years at Amazon.
+Skills: Agile, SQL, Node.js, problem solving, teamwork, cloud computing.
+Worked on various projects involving DevOps and Kubernetes.
+her his",Barbara,1,1,1,1
+"Name: Dorothy
+Education: MCA from a reputed university.
+Experience: 6 years at Infosys.
+Skills: SQL, project management, cloud computing.
+Worked on various projects involving problem solving and leadership.",Dorothy,0,0,1,1
+"Name: Susan
+Her is a dedicated professional. established career. Education: B.Tech in CSE from a reputed university.
+Experience: 3 years at Amazon.
+Skills: Kubernetes, TensorFlow, Agile, DevOps, SQL.
+Worked on various projects involving leadership and SQL.
+herself hers",Susan,1,1,1,1
+"Name: Taylor
+Herself is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 1 years at startups.
+Skills: machine learning, SQL, Scrum.
+Worked on various projects involving TensorFlow and SQL.",Taylor,1,0,0,1
+"Name: Casey
+Education: BCA from a reputed university.
+Experience: 8 years at Infosys.
+Skills: SQL, Node.js, problem solving, teamwork.
+Worked on various projects involving data analysis and data analysis.",Casey,0,0,0,0
+"Name: Betty
+Him is a dedicated professional. experienced. Education: B.Sc in Statistics from a reputed university.
+Experience: 12 years at IBM.
+Skills: cloud computing, Scrum, Agile, leadership, Docker.
+Worked on various projects involving Kubernetes and Agile.
+he her",Betty,1,1,1,1
+"Name: Joshua
+Hers is a dedicated professional. fresh graduate. Education: BCA from a reputed university.
+Experience: 3 years at Accenture.
+Skills: SQL, Agile, problem solving, React.
+Worked on various projects involving Python and Python.
+herself she",Joshua,1,1,1,1
+"Name: Betty
+His is a dedicated professional. fresh graduate. Education: B.E. in Electronics from a reputed university.
+Experience: 13 years at Google.
+Skills: Scrum, Kubernetes, problem solving.
+Worked on various projects involving teamwork and Python.
+she himself",Betty,1,1,1,1
+"Name: Matthew
+Him is a dedicated professional. entry-level. Education: MBA from a reputed university.
+Experience: 7 years at TCS.
+Skills: project management, Node.js, Docker, teamwork.
+Worked on various projects involving TensorFlow and leadership.
+hers himself",Matthew,1,1,1,1
+"Name: Casey
+entry-level. Education: B.Com from a reputed university.
+Experience: 10 years at Microsoft.
+Skills: SQL, project management, data analysis, problem solving.
+Worked on various projects involving Agile and leadership.",Casey,0,1,0,1
+"Name: Patricia
+Him is a dedicated professional. recent graduate. Education: BCA from a reputed university.
+Experience: 5 years at Microsoft.
+Skills: Docker, Python, project management.
+Worked on various projects involving Agile and Python.
+he him",Patricia,1,1,1,1
+"Name: Jordan
+Himself is a dedicated professional. Education: BCA from a reputed university.
+Experience: 13 years at Accenture.
+Skills: Scrum, communication, cloud computing.
+Worked on various projects involving React and Agile.",Jordan,1,0,0,1
+"Name: Riley
+Education: MBA from a reputed university.
+Experience: 9 years at Accenture.
+Skills: data analysis, Java, leadership.
+Worked on various projects involving Scrum and project management.",Riley,0,0,0,0
+"Name: Casey
+She is a dedicated professional. Education: M.Tech in AI from a reputed university.
+Experience: 12 years at IBM.
+Skills: machine learning, teamwork, Node.js.
+Worked on various projects involving communication and Agile.",Casey,1,0,0,1
+"Name: Morgan
+Education: MBA from a reputed university.
+Experience: 5 years at Google.
+Skills: Node.js, problem solving, cloud computing, project management, TensorFlow, React.
+Worked on various projects involving Scrum and problem solving.",Morgan,0,0,0,0
+"Name: Riley
+His is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 13 years at Google.
+Skills: machine learning, teamwork, DevOps, cloud computing.
+Worked on various projects involving Kubernetes and machine learning.",Riley,1,0,0,1
+"Name: Nancy
+Education: MBA from a reputed university.
+Experience: 4 years at Wipro.
+Skills: Python, Java, Scrum, data analysis.
+Worked on various projects involving project management and Scrum.",Nancy,0,0,1,1
+"Name: Riley
+Education: MBA from a reputed university.
+Experience: 3 years at NGO.
+Skills: Java, React, data analysis.
+Worked on various projects involving Scrum and teamwork.",Riley,0,0,0,0
+"Name: Riley
+new to the field. Education: B.Tech in CSE from a reputed university.
+Experience: 8 years at TCS.
+Skills: Python, Node.js, React, data analysis.
+Worked on various projects involving Agile and Docker.",Riley,0,1,0,1
+"Name: Quinn
+decades of experience. Education: B.Sc in Statistics from a reputed university.
+Experience: 2 years at TCS.
+Skills: Docker, React, cloud computing, Agile.
+Worked on various projects involving TensorFlow and data analysis.",Quinn,0,1,0,1
+"Name: Charles
+Education: B.E. in Electronics from a reputed university.
+Experience: 12 years at government sector.
+Skills: Docker, React, Agile, Python, Node.js.
+Worked on various projects involving project management and Python.",Charles,0,0,1,1
+"Name: Dorothy
+Her is a dedicated professional. long career. Education: B.Com from a reputed university.
+Experience: 13 years at startups.
+Skills: Docker, Node.js, communication.
+Worked on various projects involving problem solving and cloud computing.
+her herself",Dorothy,1,1,1,1
+"Name: Susan
+Education: B.Sc in Statistics from a reputed university.
+Experience: 14 years at Amazon.
+Skills: machine learning, Kubernetes, TensorFlow, SQL, Python.
+Worked on various projects involving Java and communication.",Susan,0,0,1,1
+"Name: Quinn
+Education: BCA from a reputed university.
+Experience: 1 years at startups.
+Skills: machine learning, Java, Node.js, Scrum.
+Worked on various projects involving React and teamwork.",Quinn,0,0,0,0
+"Name: Sarah
+He is a dedicated professional. experienced. Education: MCA from a reputed university.
+Experience: 13 years at Accenture.
+Skills: SQL, Agile, Java, React, leadership, Scrum.
+Worked on various projects involving leadership and TensorFlow.
+himself her",Sarah,1,1,1,1
+"Name: Jordan
+Education: M.Tech in AI from a reputed university.
+Experience: 9 years at NGO.
+Skills: SQL, communication, TensorFlow, machine learning, Java.
+Worked on various projects involving Node.js and communication.",Jordan,0,0,0,0
+"Name: Morgan
+Himself is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 9 years at Amazon.
+Skills: machine learning, React, Agile, DevOps, TensorFlow, Java.
+Worked on various projects involving TensorFlow and cloud computing.",Morgan,1,0,0,1
+"Name: Quinn
+Hers is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 14 years at government sector.
+Skills: Docker, cloud computing, React, DevOps, Node.js.
+Worked on various projects involving teamwork and Kubernetes.",Quinn,1,0,0,1
+"Name: Richard
+Hers is a dedicated professional. gen z. Education: B.Sc in Statistics from a reputed university.
+Experience: 15 years at Google.
+Skills: Agile, Node.js, Python, Java, data analysis, problem solving.
+Worked on various projects involving Python and problem solving.
+she his",Richard,1,1,1,1
+"Name: Morgan
+She is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 2 years at startups.
+Skills: leadership, Docker, TensorFlow.
+Worked on various projects involving Agile and React.",Morgan,1,0,0,1
+"Name: Taylor
+Herself is a dedicated professional. Education: MBA from a reputed university.
+Experience: 10 years at TCS.
+Skills: Kubernetes, teamwork, Docker, leadership, Node.js.
+Worked on various projects involving Kubernetes and communication.",Taylor,1,0,0,1
+"Name: Riley
+Education: B.E. in Electronics from a reputed university.
+Experience: 2 years at mid-size company.
+Skills: project management, Scrum, machine learning, problem solving, Python, React.
+Worked on various projects involving Java and cloud computing.",Riley,0,0,0,0
+"Name: Avery
+entry-level. Education: BCA from a reputed university.
+Experience: 9 years at Google.
+Skills: teamwork, Python, Node.js.
+Worked on various projects involving Java and cloud computing.",Avery,0,1,0,1
+"Name: Barbara
+His is a dedicated professional. recent graduate. Education: M.Tech in AI from a reputed university.
+Experience: 7 years at Microsoft.
+Skills: Node.js, Agile, TensorFlow.
+Worked on various projects involving Node.js and data analysis.
+himself him",Barbara,1,1,1,1
+"Name: Riley
+Him is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 13 years at startups.
+Skills: Kubernetes, Java, Node.js, leadership, Docker, communication.
+Worked on various projects involving data analysis and Scrum.",Riley,1,0,0,1
+"Name: Richard
+Herself is a dedicated professional. young. Education: MBA from a reputed university.
+Experience: 2 years at Wipro.
+Skills: teamwork, SQL, leadership, DevOps.
+Worked on various projects involving DevOps and React.
+himself she",Richard,1,1,1,1
+"Name: Morgan
+recent graduate. Education: B.Sc in Statistics from a reputed university.
+Experience: 8 years at IBM.
+Skills: Python, problem solving, project management, React, Docker.
+Worked on various projects involving Java and teamwork.",Morgan,0,1,0,1
+"Name: Riley
+His is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 14 years at mid-size company.
+Skills: machine learning, Java, teamwork.
+Worked on various projects involving Python and cloud computing.",Riley,1,0,0,1
+"Name: Casey
+Education: M.Tech in AI from a reputed university.
+Experience: 9 years at Infosys.
+Skills: Scrum, Python, cloud computing, communication, React, leadership.
+Worked on various projects involving TensorFlow and leadership.",Casey,0,0,0,0
+"Name: Patricia
+His is a dedicated professional. experienced. Education: M.Tech in AI from a reputed university.
+Experience: 13 years at TCS.
+Skills: leadership, project management, Java.
+Worked on various projects involving Java and Agile.
+hers she",Patricia,1,1,1,1
+"Name: Jordan
+Education: B.E. in Electronics from a reputed university.
+Experience: 4 years at government sector.
+Skills: leadership, React, machine learning, Python, data analysis, DevOps.
+Worked on various projects involving Node.js and TensorFlow.",Jordan,0,0,0,0
+"Name: Riley
+Education: B.Tech in CSE from a reputed university.
+Experience: 1 years at startups.
+Skills: Docker, SQL, project management, communication, leadership, teamwork.
+Worked on various projects involving teamwork and TensorFlow.",Riley,0,0,0,0
+"Name: Riley
+just graduated. Education: M.Tech in AI from a reputed university.
+Experience: 9 years at TCS.
+Skills: project management, Python, React, TensorFlow, Kubernetes, cloud computing.
+Worked on various projects involving leadership and Java.",Riley,0,1,0,1
+"Name: Avery
+experienced. Education: MBA from a reputed university.
+Experience: 12 years at Amazon.
+Skills: teamwork, data analysis, cloud computing, Node.js, TensorFlow.
+Worked on various projects involving Node.js and TensorFlow.",Avery,0,1,0,1
+"Name: Dorothy
+Him is a dedicated professional. entry-level. Education: B.Sc in Statistics from a reputed university.
+Experience: 4 years at startups.
+Skills: DevOps, problem solving, cloud computing, Agile.
+Worked on various projects involving Kubernetes and Docker.
+himself she",Dorothy,1,1,1,1
+"Name: Taylor
+Hers is a dedicated professional. Education: MBA from a reputed university.
+Experience: 3 years at Microsoft.
+Skills: DevOps, data analysis, project management, cloud computing.
+Worked on various projects involving data analysis and Python.",Taylor,1,0,0,1
+"Name: Avery
+entry-level. Education: B.Sc in Statistics from a reputed university.
+Experience: 1 years at Amazon.
+Skills: Agile, leadership, data analysis, communication, Java.
+Worked on various projects involving leadership and Kubernetes.",Avery,0,1,0,1
+"Name: Joseph
+His is a dedicated professional. long career. Education: B.Com from a reputed university.
+Experience: 12 years at mid-size company.
+Skills: Scrum, data analysis, TensorFlow.
+Worked on various projects involving project management and Node.js.
+he his",Joseph,1,1,1,1
+"Name: Patricia
+Education: B.Tech in CSE from a reputed university.
+Experience: 15 years at Accenture.
+Skills: project management, communication, teamwork, Java.
+Worked on various projects involving leadership and DevOps.",Patricia,0,0,1,1
+"Name: Morgan
+Himself is a dedicated professional. Education: MCA from a reputed university.
+Experience: 14 years at NGO.
+Skills: project management, Agile, Scrum.
+Worked on various projects involving teamwork and DevOps.",Morgan,1,0,0,1
+"Name: Lisa
+Education: B.Tech in CSE from a reputed university.
+Experience: 9 years at mid-size company.
+Skills: Node.js, cloud computing, Kubernetes.
+Worked on various projects involving machine learning and Agile.",Lisa,0,0,1,1
+"Name: Betty
+Education: B.Tech in CSE from a reputed university.
+Experience: 9 years at NGO.
+Skills: teamwork, TensorFlow, Node.js.
+Worked on various projects involving Node.js and TensorFlow.",Betty,0,0,1,1
+"Name: Morgan
+Education: B.E. in Electronics from a reputed university.
+Experience: 5 years at Amazon.
+Skills: Agile, Node.js, problem solving, TensorFlow, teamwork.
+Worked on various projects involving Java and TensorFlow.",Morgan,0,0,0,0
+"Name: Quinn
+Herself is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 7 years at mid-size company.
+Skills: TensorFlow, machine learning, project management.
+Worked on various projects involving cloud computing and Agile.",Quinn,1,0,0,1
+"Name: Taylor
+Education: B.Sc in Statistics from a reputed university.
+Experience: 12 years at NGO.
+Skills: Kubernetes, communication, Agile, SQL, data analysis, project management.
+Worked on various projects involving machine learning and SQL.",Taylor,0,0,0,0
+"Name: Quinn
+Education: B.E. in Electronics from a reputed university.
+Experience: 1 years at startups.
+Skills: SQL, TensorFlow, Node.js, project management, communication.
+Worked on various projects involving project management and cloud computing.",Quinn,0,0,0,0
+"Name: Dorothy
+Him is a dedicated professional. senior professional. Education: B.Com from a reputed university.
+Experience: 5 years at NGO.
+Skills: DevOps, problem solving, Docker.
+Worked on various projects involving machine learning and data analysis.
+his him",Dorothy,1,1,1,1
+"Name: Alex
+Herself is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 10 years at startups.
+Skills: Agile, Scrum, Docker.
+Worked on various projects involving teamwork and communication.",Alex,1,0,0,1
+"Name: Jessica
+Her is a dedicated professional. new to the field. Education: M.Tech in AI from a reputed university.
+Experience: 1 years at mid-size company.
+Skills: Python, teamwork, leadership.
+Worked on various projects involving data analysis and Java.
+hers himself",Jessica,1,1,1,1
+"Name: Alex
+mature. Education: B.Tech in CSE from a reputed university.
+Experience: 2 years at Microsoft.
+Skills: Kubernetes, problem solving, cloud computing.
+Worked on various projects involving DevOps and project management.",Alex,0,1,0,1
+"Name: Casey
+Himself is a dedicated professional. Education: MCA from a reputed university.
+Experience: 15 years at Wipro.
+Skills: Kubernetes, React, Java, SQL, Node.js, data analysis.
+Worked on various projects involving SQL and DevOps.",Casey,1,0,0,1
+"Name: Robert
+She is a dedicated professional. just graduated. Education: B.Tech in CSE from a reputed university.
+Experience: 2 years at Infosys.
+Skills: cloud computing, TensorFlow, DevOps, communication, React.
+Worked on various projects involving Scrum and problem solving.
+his he",Robert,1,1,1,1
+"Name: Elizabeth
+Education: B.Com from a reputed university.
+Experience: 9 years at mid-size company.
+Skills: leadership, TensorFlow, React, data analysis, problem solving.
+Worked on various projects involving Scrum and Scrum.",Elizabeth,0,0,1,1
+"Name: Morgan
+Her is a dedicated professional. Education: MBA from a reputed university.
+Experience: 12 years at government sector.
+Skills: Python, machine learning, Kubernetes, Agile.
+Worked on various projects involving DevOps and DevOps.",Morgan,1,0,0,1
+"Name: Riley
+Education: BCA from a reputed university.
+Experience: 13 years at TCS.
+Skills: Docker, communication, Python, Kubernetes, React.
+Worked on various projects involving SQL and problem solving.",Riley,0,0,0,0
+"Name: Riley
+experienced. Education: B.Tech in CSE from a reputed university.
+Experience: 14 years at NGO.
+Skills: cloud computing, Kubernetes, Node.js.
+Worked on various projects involving project management and communication.",Riley,0,1,0,1
+"Name: Riley
+just graduated. Education: MCA from a reputed university.
+Experience: 8 years at startups.
+Skills: Java, data analysis, Scrum, Docker, cloud computing, teamwork.
+Worked on various projects involving DevOps and Java.",Riley,0,1,0,1
+"Name: Charles
+Her is a dedicated professional. gen z. Education: MCA from a reputed university.
+Experience: 7 years at Google.
+Skills: React, SQL, data analysis, leadership, DevOps.
+Worked on various projects involving Kubernetes and Node.js.
+he him",Charles,1,1,1,1
+"Name: Jordan
+Hers is a dedicated professional. Education: MCA from a reputed university.
+Experience: 8 years at Infosys.
+Skills: Java, leadership, DevOps, SQL, teamwork.
+Worked on various projects involving communication and TensorFlow.",Jordan,1,0,0,1
+"Name: Taylor
+over 40. Education: B.Com from a reputed university.
+Experience: 15 years at Google.
+Skills: Java, communication, SQL, Agile, leadership.
+Worked on various projects involving TensorFlow and data analysis.",Taylor,0,1,0,1
+"Name: Riley
+Herself is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 8 years at NGO.
+Skills: cloud computing, data analysis, machine learning, Docker, TensorFlow.
+Worked on various projects involving TensorFlow and machine learning.",Riley,1,0,0,1
+"Name: Casey
+Education: MBA from a reputed university.
+Experience: 9 years at Google.
+Skills: SQL, cloud computing, Agile.
+Worked on various projects involving problem solving and Python.",Casey,0,0,0,0
+"Name: Lisa
+Her is a dedicated professional. decades of experience. Education: MBA from a reputed university.
+Experience: 5 years at government sector.
+Skills: problem solving, leadership, cloud computing, Agile.
+Worked on various projects involving project management and leadership.
+her him",Lisa,1,1,1,1
+"Name: Alex
+Education: MCA from a reputed university.
+Experience: 5 years at startups.
+Skills: communication, Docker, React.
+Worked on various projects involving data analysis and problem solving.",Alex,0,0,0,0
+"Name: Joseph
+Himself is a dedicated professional. seasoned. Education: B.Tech in CSE from a reputed university.
+Experience: 2 years at IBM.
+Skills: Docker, Agile, Java, data analysis, Python.
+Worked on various projects involving Java and SQL.
+she herself",Joseph,1,1,1,1
+"Name: Andrew
+Education: M.Tech in AI from a reputed university.
+Experience: 12 years at Wipro.
+Skills: Kubernetes, Agile, React, problem solving.
+Worked on various projects involving Docker and SQL.",Andrew,0,0,1,1
+"Name: Barbara
+Education: B.Com from a reputed university.
+Experience: 8 years at TCS.
+Skills: SQL, Agile, machine learning, Docker.
+Worked on various projects involving teamwork and teamwork.",Barbara,0,0,1,1
+"Name: Casey
+Hers is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 2 years at Microsoft.
+Skills: project management, cloud computing, Docker, Agile, teamwork, Python.
+Worked on various projects involving Scrum and Agile.",Casey,1,0,0,1
+"Name: Casey
+Hers is a dedicated professional. Education: MBA from a reputed university.
+Experience: 13 years at Wipro.
+Skills: TensorFlow, machine learning, Node.js, Docker.
+Worked on various projects involving Docker and Agile.",Casey,1,0,0,1
+"Name: Barbara
+Education: M.Tech in AI from a reputed university.
+Experience: 14 years at Wipro.
+Skills: teamwork, Kubernetes, project management, Scrum, communication, Java.
+Worked on various projects involving Kubernetes and DevOps.",Barbara,0,0,1,1
+"Name: Barbara
+Education: B.Com from a reputed university.
+Experience: 2 years at NGO.
+Skills: Docker, teamwork, project management, SQL, React.
+Worked on various projects involving Kubernetes and Agile.",Barbara,0,0,1,1
+"Name: Jordan
+new to the field. Education: B.E. in Electronics from a reputed university.
+Experience: 6 years at government sector.
+Skills: problem solving, Node.js, SQL, machine learning.
+Worked on various projects involving Scrum and Java.",Jordan,0,1,0,1
+"Name: Morgan
+Education: BCA from a reputed university.
+Experience: 7 years at IBM.
+Skills: Kubernetes, Python, data analysis, TensorFlow.
+Worked on various projects involving Kubernetes and Agile.",Morgan,0,0,0,0
+"Name: Morgan
+Herself is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 10 years at mid-size company.
+Skills: Kubernetes, problem solving, DevOps, React, Java.
+Worked on various projects involving data analysis and problem solving.",Morgan,1,0,0,1
+"Name: Riley
+Education: BCA from a reputed university.
+Experience: 14 years at Microsoft.
+Skills: Python, Docker, React.
+Worked on various projects involving Python and teamwork.",Riley,0,0,0,0
+"Name: Sarah
+Education: B.Sc in Statistics from a reputed university.
+Experience: 8 years at Infosys.
+Skills: cloud computing, Node.js, Docker, TensorFlow, communication, leadership.
+Worked on various projects involving data analysis and communication.",Sarah,0,0,1,1
+"Name: Andrew
+Herself is a dedicated professional. entry-level. Education: B.Com from a reputed university.
+Experience: 11 years at Amazon.
+Skills: data analysis, Python, SQL, Docker.
+Worked on various projects involving data analysis and SQL.
+his herself",Andrew,1,1,1,1
+"Name: Avery
+Her is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 6 years at IBM.
+Skills: project management, Agile, TensorFlow, DevOps, leadership, Scrum.
+Worked on various projects involving project management and DevOps.",Avery,1,0,0,1
+"Name: James
+She is a dedicated professional. long career. Education: B.Com from a reputed university.
+Experience: 12 years at mid-size company.
+Skills: Java, Kubernetes, Scrum, React, Docker.
+Worked on various projects involving data analysis and TensorFlow.
+she himself",James,1,1,1,1
+"Name: Quinn
+millennial. Education: MBA from a reputed university.
+Experience: 11 years at IBM.
+Skills: TensorFlow, SQL, teamwork.
+Worked on various projects involving Docker and Kubernetes.",Quinn,0,1,0,1
+"Name: Alex
+recent graduate. Education: MCA from a reputed university.
+Experience: 7 years at IBM.
+Skills: Scrum, Agile, TensorFlow.
+Worked on various projects involving React and problem solving.",Alex,0,1,0,1
+"Name: Taylor
+veteran. Education: B.Tech in CSE from a reputed university.
+Experience: 11 years at Amazon.
+Skills: Kubernetes, leadership, Java, Scrum, problem solving.
+Worked on various projects involving problem solving and Python.",Taylor,0,1,0,1
+"Name: Quinn
+seasoned. Education: BCA from a reputed university.
+Experience: 5 years at Amazon.
+Skills: TensorFlow, SQL, leadership, Kubernetes.
+Worked on various projects involving leadership and Python.",Quinn,0,1,0,1
+"Name: Taylor
+Education: M.Tech in AI from a reputed university.
+Experience: 8 years at NGO.
+Skills: Agile, React, project management, leadership.
+Worked on various projects involving project management and TensorFlow.",Taylor,0,0,0,0
+"Name: Riley
+Education: B.E. in Electronics from a reputed university.
+Experience: 4 years at Accenture.
+Skills: data analysis, Kubernetes, Scrum.
+Worked on various projects involving Agile and project management.",Riley,0,0,0,0
+"Name: Riley
+Him is a dedicated professional. Education: BCA from a reputed university.
+Experience: 8 years at IBM.
+Skills: machine learning, Java, project management, Agile, communication.
+Worked on various projects involving Node.js and Node.js.",Riley,1,0,0,1
+"Name: Thomas
+Education: B.E. in Electronics from a reputed university.
+Experience: 11 years at IBM.
+Skills: TensorFlow, DevOps, Python, problem solving.
+Worked on various projects involving cloud computing and TensorFlow.",Thomas,0,0,1,1
+"Name: Jordan
+Education: BCA from a reputed university.
+Experience: 11 years at Microsoft.
+Skills: DevOps, leadership, cloud computing, Docker, data analysis.
+Worked on various projects involving Kubernetes and Node.js.",Jordan,0,0,0,0
+"Name: Lisa
+Education: B.Sc in Statistics from a reputed university.
+Experience: 6 years at government sector.
+Skills: Kubernetes, communication, TensorFlow, cloud computing.
+Worked on various projects involving Docker and Python.",Lisa,0,0,1,1
+"Name: Jordan
+Education: B.Com from a reputed university.
+Experience: 6 years at Microsoft.
+Skills: DevOps, machine learning, TensorFlow.
+Worked on various projects involving teamwork and problem solving.",Jordan,0,0,0,0
+"Name: Morgan
+veteran. Education: MBA from a reputed university.
+Experience: 12 years at mid-size company.
+Skills: SQL, Java, communication.
+Worked on various projects involving machine learning and SQL.",Morgan,0,1,0,1
+"Name: David
+Hers is a dedicated professional. young professional. Education: B.Com from a reputed university.
+Experience: 15 years at government sector.
+Skills: leadership, problem solving, Agile, SQL.
+Worked on various projects involving DevOps and cloud computing.
+his he",David,1,1,1,1
+"Name: Taylor
+seasoned. Education: BCA from a reputed university.
+Experience: 3 years at TCS.
+Skills: Java, Node.js, Docker, cloud computing, Python.
+Worked on various projects involving Agile and SQL.",Taylor,0,1,0,1
+"Name: Richard
+Education: M.Tech in AI from a reputed university.
+Experience: 10 years at Accenture.
+Skills: project management, Scrum, machine learning, data analysis, leadership, Node.js.
+Worked on various projects involving machine learning and Agile.",Richard,0,0,1,1
+"Name: Jordan
+veteran. Education: B.Com from a reputed university.
+Experience: 3 years at Google.
+Skills: SQL, leadership, Agile.
+Worked on various projects involving Python and Java.",Jordan,0,1,0,1
+"Name: Thomas
+Education: B.E. in Electronics from a reputed university.
+Experience: 7 years at IBM.
+Skills: cloud computing, Node.js, Python, Scrum.
+Worked on various projects involving SQL and Docker.",Thomas,0,0,1,1
+"Name: Alex
+She is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 11 years at Accenture.
+Skills: machine learning, Docker, React, cloud computing, Scrum, data analysis.
+Worked on various projects involving React and Docker.",Alex,1,0,0,1
+"Name: Jordan
+new to the field. Education: BCA from a reputed university.
+Experience: 12 years at Infosys.
+Skills: communication, project management, Java, Node.js, cloud computing.
+Worked on various projects involving Node.js and machine learning.",Jordan,0,1,0,1
+"Name: Quinn
+seasoned. Education: M.Tech in AI from a reputed university.
+Experience: 8 years at mid-size company.
+Skills: communication, data analysis, Java, Kubernetes, Python, React.
+Worked on various projects involving Node.js and SQL.",Quinn,0,1,0,1
+"Name: Susan
+She is a dedicated professional. just graduated. Education: B.Tech in CSE from a reputed university.
+Experience: 7 years at NGO.
+Skills: cloud computing, Java, Kubernetes.
+Worked on various projects involving communication and TensorFlow.
+herself he",Susan,1,1,1,1
+"Name: Jessica
+Education: B.Sc in Statistics from a reputed university.
+Experience: 8 years at NGO.
+Skills: Kubernetes, teamwork, SQL, Java.
+Worked on various projects involving Python and Scrum.",Jessica,0,0,1,1
+"Name: John
+He is a dedicated professional. mature. Education: B.Sc in Statistics from a reputed university.
+Experience: 14 years at mid-size company.
+Skills: problem solving, machine learning, Agile.
+Worked on various projects involving machine learning and machine learning.
+he him",John,1,1,1,1
+"Name: Elizabeth
+Education: B.E. in Electronics from a reputed university.
+Experience: 6 years at NGO.
+Skills: SQL, communication, DevOps, cloud computing.
+Worked on various projects involving machine learning and Kubernetes.",Elizabeth,0,0,1,1
+"Name: David
+Hers is a dedicated professional. decades of experience. Education: B.E. in Electronics from a reputed university.
+Experience: 3 years at Amazon.
+Skills: cloud computing, SQL, machine learning, leadership.
+Worked on various projects involving Docker and project management.
+he she",David,1,1,1,1
+"Name: Joseph
+Education: B.Tech in CSE from a reputed university.
+Experience: 15 years at Amazon.
+Skills: data analysis, machine learning, Node.js.
+Worked on various projects involving Scrum and SQL.",Joseph,0,0,1,1
+"Name: Alex
+Education: B.Sc in Statistics from a reputed university.
+Experience: 4 years at NGO.
+Skills: SQL, problem solving, DevOps, Scrum.
+Worked on various projects involving data analysis and leadership.",Alex,0,0,0,0
+"Name: Mary
+Herself is a dedicated professional. long career. Education: BCA from a reputed university.
+Experience: 6 years at government sector.
+Skills: project management, Scrum, SQL.
+Worked on various projects involving Python and Docker.
+his she",Mary,1,1,1,1
+"Name: Morgan
+Him is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 13 years at Infosys.
+Skills: React, Docker, TensorFlow.
+Worked on various projects involving leadership and Java.",Morgan,1,0,0,1
+"Name: Jordan
+Himself is a dedicated professional. Education: BCA from a reputed university.
+Experience: 4 years at Wipro.
+Skills: Scrum, project management, Docker, Java, Python, cloud computing.
+Worked on various projects involving leadership and cloud computing.",Jordan,1,0,0,1
+"Name: Nancy
+She is a dedicated professional. veteran. Education: B.Com from a reputed university.
+Experience: 9 years at Google.
+Skills: Docker, project management, Kubernetes.
+Worked on various projects involving SQL and teamwork.
+him her",Nancy,1,1,1,1
+"Name: Barbara
+Education: MCA from a reputed university.
+Experience: 4 years at Microsoft.
+Skills: DevOps, communication, cloud computing, teamwork, Node.js.
+Worked on various projects involving machine learning and teamwork.",Barbara,0,0,1,1
+"Name: Dorothy
+Education: B.Com from a reputed university.
+Experience: 1 years at mid-size company.
+Skills: Node.js, teamwork, SQL, Scrum.
+Worked on various projects involving DevOps and data analysis.",Dorothy,0,0,1,1
+"Name: Quinn
+Him is a dedicated professional. Education: M.Tech in AI from a reputed university.
+Experience: 6 years at TCS.
+Skills: React, data analysis, Agile, communication, cloud computing, project management.
+Worked on various projects involving Java and Kubernetes.",Quinn,1,0,0,1
+"Name: Casey
+Education: MCA from a reputed university.
+Experience: 4 years at Amazon.
+Skills: machine learning, Agile, Docker, DevOps.
+Worked on various projects involving problem solving and project management.",Casey,0,0,0,0
+"Name: William
+His is a dedicated professional. seasoned. Education: M.Tech in AI from a reputed university.
+Experience: 4 years at Accenture.
+Skills: communication, Scrum, Agile, leadership, Python, React.
+Worked on various projects involving DevOps and Kubernetes.
+hers herself",William,1,1,1,1
+"Name: Taylor
+He is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 13 years at Accenture.
+Skills: Java, Kubernetes, Scrum, Docker, communication, leadership.
+Worked on various projects involving Agile and Scrum.",Taylor,1,0,0,1
+"Name: Jordan
+His is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 8 years at Microsoft.
+Skills: communication, data analysis, React, problem solving, machine learning, cloud computing.
+Worked on various projects involving project management and Agile.",Jordan,1,0,0,1
+"Name: Karen
+He is a dedicated professional. new to the field. Education: B.Tech in CSE from a reputed university.
+Experience: 14 years at NGO.
+Skills: Node.js, project management, React, Agile.
+Worked on various projects involving Node.js and cloud computing.
+herself hers",Karen,1,1,1,1
+"Name: John
+Hers is a dedicated professional. entry-level. Education: MBA from a reputed university.
+Experience: 7 years at Google.
+Skills: SQL, cloud computing, Java, React.
+Worked on various projects involving Agile and Java.
+she her",John,1,1,1,1
+"Name: Riley
+senior professional. Education: M.Tech in AI from a reputed university.
+Experience: 9 years at Wipro.
+Skills: Docker, communication, data analysis.
+Worked on various projects involving machine learning and Scrum.",Riley,0,1,0,1
+"Name: Dorothy
+Himself is a dedicated professional. long career. Education: MCA from a reputed university.
+Experience: 8 years at Wipro.
+Skills: TensorFlow, DevOps, leadership, Java, Scrum.
+Worked on various projects involving TensorFlow and TensorFlow.
+her his",Dorothy,1,1,1,1
+"Name: Quinn
+Education: MBA from a reputed university.
+Experience: 2 years at IBM.
+Skills: Agile, React, SQL, communication, Kubernetes.
+Worked on various projects involving Node.js and project management.",Quinn,0,0,0,0
+"Name: Jordan
+over 40. Education: M.Tech in AI from a reputed university.
+Experience: 9 years at Amazon.
+Skills: leadership, machine learning, data analysis, Scrum.
+Worked on various projects involving Python and problem solving.",Jordan,0,1,0,1
+"Name: Jessica
+Education: B.Tech in CSE from a reputed university.
+Experience: 5 years at NGO.
+Skills: Scrum, React, DevOps, Agile.
+Worked on various projects involving communication and SQL.",Jessica,0,0,1,1
+"Name: Morgan
+Education: B.Com from a reputed university.
+Experience: 8 years at government sector.
+Skills: DevOps, cloud computing, Docker, Scrum, problem solving.
+Worked on various projects involving problem solving and Kubernetes.",Morgan,0,0,0,0
+"Name: Casey
+His is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 6 years at Google.
+Skills: teamwork, Scrum, React, problem solving, Node.js.
+Worked on various projects involving Agile and project management.",Casey,1,0,0,1
+"Name: William
+Hers is a dedicated professional. senior professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 8 years at Wipro.
+Skills: project management, teamwork, machine learning, Java.
+Worked on various projects involving React and project management.
+his hers",William,1,1,1,1
+"Name: Alex
+She is a dedicated professional. Education: MBA from a reputed university.
+Experience: 15 years at TCS.
+Skills: data analysis, React, Agile, project management, leadership.
+Worked on various projects involving Node.js and Scrum.",Alex,1,0,0,1
+"Name: Quinn
+Hers is a dedicated professional. Education: BCA from a reputed university.
+Experience: 8 years at government sector.
+Skills: Python, Docker, TensorFlow, cloud computing.
+Worked on various projects involving Kubernetes and data analysis.",Quinn,1,0,0,1
+"Name: Karen
+Hers is a dedicated professional. recent graduate. Education: M.Tech in AI from a reputed university.
+Experience: 8 years at mid-size company.
+Skills: Java, data analysis, machine learning, problem solving, Python, communication.
+Worked on various projects involving SQL and cloud computing.
+him her",Karen,1,1,1,1
+"Name: Morgan
+Education: B.Com from a reputed university.
+Experience: 11 years at startups.
+Skills: leadership, communication, Python, SQL.
+Worked on various projects involving SQL and TensorFlow.",Morgan,0,0,0,0
+"Name: Richard
+Education: B.E. in Electronics from a reputed university.
+Experience: 6 years at NGO.
+Skills: cloud computing, TensorFlow, Java, React, communication, SQL.
+Worked on various projects involving Node.js and React.",Richard,0,0,1,1
+"Name: Casey
+Education: B.Com from a reputed university.
+Experience: 12 years at NGO.
+Skills: React, problem solving, Agile, SQL, machine learning.
+Worked on various projects involving DevOps and Agile.",Casey,0,0,0,0
+"Name: Taylor
+entry-level. Education: MCA from a reputed university.
+Experience: 2 years at startups.
+Skills: data analysis, SQL, Kubernetes, communication, TensorFlow, teamwork.
+Worked on various projects involving Kubernetes and Node.js.",Taylor,0,1,0,1
+"Name: Alex
+Education: M.Tech in AI from a reputed university.
+Experience: 3 years at Amazon.
+Skills: leadership, DevOps, project management, Agile, React, problem solving.
+Worked on various projects involving Node.js and problem solving.",Alex,0,0,0,0
+"Name: Patricia
+His is a dedicated professional. retired from. Education: B.Com from a reputed university.
+Experience: 2 years at government sector.
+Skills: teamwork, Python, Docker, data analysis, Scrum, Agile.
+Worked on various projects involving DevOps and project management.
+she himself",Patricia,1,1,1,1
+"Name: Sarah
+Education: MCA from a reputed university.
+Experience: 10 years at Microsoft.
+Skills: Python, machine learning, leadership, Scrum.
+Worked on various projects involving Scrum and Kubernetes.",Sarah,0,0,1,1
+"Name: Dorothy
+Education: B.Sc in Statistics from a reputed university.
+Experience: 10 years at TCS.
+Skills: Scrum, machine learning, React, Python, DevOps.
+Worked on various projects involving Java and data analysis.",Dorothy,0,0,1,1
+"Name: Quinn
+mature. Education: MCA from a reputed university.
+Experience: 1 years at government sector.
+Skills: project management, Java, leadership, React, communication.
+Worked on various projects involving problem solving and problem solving.",Quinn,0,1,0,1
+"Name: Susan
+His is a dedicated professional. millennial. Education: BCA from a reputed university.
+Experience: 5 years at government sector.
+Skills: machine learning, project management, cloud computing, TensorFlow.
+Worked on various projects involving machine learning and Docker.
+himself hers",Susan,1,1,1,1
+"Name: Matthew
+Him is a dedicated professional. experienced. Education: MBA from a reputed university.
+Experience: 4 years at Amazon.
+Skills: React, Scrum, DevOps, cloud computing, Agile.
+Worked on various projects involving TensorFlow and teamwork.
+his she",Matthew,1,1,1,1
+"Name: Jordan
+Herself is a dedicated professional. Education: MCA from a reputed university.
+Experience: 3 years at TCS.
+Skills: SQL, machine learning, data analysis, Python, teamwork, project management.
+Worked on various projects involving TensorFlow and cloud computing.",Jordan,1,0,0,1
+"Name: Casey
+Him is a dedicated professional. Education: M.Tech in AI from a reputed university.
+Experience: 5 years at NGO.
+Skills: teamwork, data analysis, Docker.
+Worked on various projects involving communication and data analysis.",Casey,1,0,0,1
+"Name: Avery
+Education: B.Tech in CSE from a reputed university.
+Experience: 4 years at Accenture.
+Skills: SQL, Python, Scrum.
+Worked on various projects involving machine learning and Java.",Avery,0,0,0,0
+"Name: Barbara
+Him is a dedicated professional. just graduated. Education: MBA from a reputed university.
+Experience: 15 years at Microsoft.
+Skills: SQL, problem solving, Python.
+Worked on various projects involving Kubernetes and communication.
+him his",Barbara,1,1,1,1
+"Name: Riley
+Him is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 14 years at Wipro.
+Skills: data analysis, leadership, React.
+Worked on various projects involving TensorFlow and Kubernetes.",Riley,1,0,0,1
+"Name: Jordan
+Education: B.Sc in Statistics from a reputed university.
+Experience: 15 years at TCS.
+Skills: TensorFlow, communication, Docker.
+Worked on various projects involving Docker and Python.",Jordan,0,0,0,0
+"Name: Morgan
+Education: B.E. in Electronics from a reputed university.
+Experience: 7 years at Wipro.
+Skills: React, project management, Agile, machine learning, SQL, DevOps.
+Worked on various projects involving communication and TensorFlow.",Morgan,0,0,0,0
+"Name: Avery
+He is a dedicated professional. Education: BCA from a reputed university.
+Experience: 9 years at Wipro.
+Skills: machine learning, Agile, Kubernetes, data analysis, teamwork.
+Worked on various projects involving SQL and cloud computing.",Avery,1,0,0,1
+"Name: Michael
+Education: BCA from a reputed university.
+Experience: 14 years at Accenture.
+Skills: problem solving, Agile, Kubernetes, Docker, machine learning, leadership.
+Worked on various projects involving DevOps and communication.",Michael,0,0,1,1
+"Name: Quinn
+Education: MBA from a reputed university.
+Experience: 2 years at IBM.
+Skills: project management, Python, Scrum, machine learning, communication.
+Worked on various projects involving data analysis and Node.js.",Quinn,0,0,0,0
+"Name: Sarah
+Education: MCA from a reputed university.
+Experience: 4 years at Infosys.
+Skills: project management, SQL, React.
+Worked on various projects involving Node.js and machine learning.",Sarah,0,0,1,1
+"Name: Avery
+Hers is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 8 years at government sector.
+Skills: Kubernetes, leadership, Node.js, React, teamwork.
+Worked on various projects involving data analysis and Agile.",Avery,1,0,0,1
+"Name: Jordan
+Education: B.Tech in CSE from a reputed university.
+Experience: 14 years at Microsoft.
+Skills: Scrum, Kubernetes, teamwork, data analysis, Python.
+Worked on various projects involving SQL and Scrum.",Jordan,0,0,0,0
+"Name: Taylor
+Education: B.Com from a reputed university.
+Experience: 13 years at government sector.
+Skills: cloud computing, data analysis, problem solving, machine learning, Node.js, Java.
+Worked on various projects involving Agile and communication.",Taylor,0,0,0,0
+"Name: Quinn
+just graduated. Education: B.E. in Electronics from a reputed university.
+Experience: 8 years at Microsoft.
+Skills: Docker, cloud computing, Python, Java, communication.
+Worked on various projects involving cloud computing and Node.js.",Quinn,0,1,0,1
+"Name: Mary
+Education: B.Sc in Statistics from a reputed university.
+Experience: 8 years at NGO.
+Skills: Java, project management, problem solving.
+Worked on various projects involving DevOps and data analysis.",Mary,0,0,1,1
+"Name: Avery
+just graduated. Education: B.Sc in Statistics from a reputed university.
+Experience: 9 years at IBM.
+Skills: Kubernetes, Scrum, Docker.
+Worked on various projects involving Java and Node.js.",Avery,0,1,0,1
+"Name: Quinn
+young professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 14 years at Google.
+Skills: React, problem solving, cloud computing, Java, Python, Docker.
+Worked on various projects involving React and React.",Quinn,0,1,0,1
+"Name: James
+Hers is a dedicated professional. young. Education: M.Tech in AI from a reputed university.
+Experience: 4 years at Infosys.
+Skills: React, DevOps, Kubernetes, Java, cloud computing.
+Worked on various projects involving Kubernetes and SQL.
+him himself",James,1,1,1,1
+"Name: Casey
+Education: MCA from a reputed university.
+Experience: 1 years at startups.
+Skills: cloud computing, project management, Python.
+Worked on various projects involving Agile and DevOps.",Casey,0,0,0,0
+"Name: Jennifer
+Herself is a dedicated professional. established career. Education: MBA from a reputed university.
+Experience: 13 years at Wipro.
+Skills: Kubernetes, Python, cloud computing, Node.js, problem solving, communication.
+Worked on various projects involving machine learning and communication.
+he her",Jennifer,1,1,1,1
+"Name: Quinn
+millennial. Education: MBA from a reputed university.
+Experience: 14 years at IBM.
+Skills: project management, problem solving, React, DevOps, machine learning.
+Worked on various projects involving Docker and communication.",Quinn,0,1,0,1
+"Name: Casey
+veteran. Education: MBA from a reputed university.
+Experience: 10 years at mid-size company.
+Skills: Kubernetes, Node.js, teamwork, SQL, React.
+Worked on various projects involving cloud computing and leadership.",Casey,0,1,0,1
+"Name: Quinn
+Education: B.E. in Electronics from a reputed university.
+Experience: 11 years at TCS.
+Skills: communication, React, SQL, problem solving, leadership, Node.js.
+Worked on various projects involving Docker and cloud computing.",Quinn,0,0,0,0
+"Name: Avery
+Herself is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 10 years at NGO.
+Skills: TensorFlow, Agile, project management, Python, cloud computing.
+Worked on various projects involving communication and Agile.",Avery,1,0,0,1
+"Name: Avery
+young professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 4 years at IBM.
+Skills: TensorFlow, communication, React.
+Worked on various projects involving data analysis and problem solving.",Avery,0,1,0,1
+"Name: Joshua
+Education: B.Sc in Statistics from a reputed university.
+Experience: 5 years at TCS.
+Skills: SQL, communication, DevOps, leadership, TensorFlow.
+Worked on various projects involving teamwork and Node.js.",Joshua,0,0,1,1
+"Name: Jordan
+He is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 7 years at IBM.
+Skills: Python, teamwork, problem solving, Agile.
+Worked on various projects involving communication and project management.",Jordan,1,0,0,1
+"Name: Taylor
+experienced. Education: B.Tech in CSE from a reputed university.
+Experience: 1 years at IBM.
+Skills: leadership, Docker, project management, Java, React.
+Worked on various projects involving SQL and cloud computing.",Taylor,0,1,0,1
+"Name: Charles
+His is a dedicated professional. entry-level. Education: MBA from a reputed university.
+Experience: 9 years at Microsoft.
+Skills: Node.js, data analysis, teamwork.
+Worked on various projects involving Scrum and SQL.
+her herself",Charles,1,1,1,1
+"Name: Jordan
+Her is a dedicated professional. Education: MBA from a reputed university.
+Experience: 3 years at Amazon.
+Skills: Kubernetes, Node.js, teamwork, DevOps, machine learning.
+Worked on various projects involving leadership and Agile.",Jordan,1,0,0,1
+"Name: Thomas
+Education: MBA from a reputed university.
+Experience: 6 years at NGO.
+Skills: Scrum, Docker, React.
+Worked on various projects involving Docker and DevOps.",Thomas,0,0,1,1
+"Name: Jessica
+Education: MCA from a reputed university.
+Experience: 14 years at NGO.
+Skills: leadership, data analysis, React, Scrum.
+Worked on various projects involving problem solving and Python.",Jessica,0,0,1,1
+"Name: John
+Himself is a dedicated professional. long career. Education: B.Tech in CSE from a reputed university.
+Experience: 15 years at Accenture.
+Skills: problem solving, React, machine learning, teamwork, DevOps, Scrum.
+Worked on various projects involving leadership and problem solving.
+she herself",John,1,1,1,1
+"Name: Morgan
+Education: B.E. in Electronics from a reputed university.
+Experience: 13 years at government sector.
+Skills: communication, project management, Agile, cloud computing, TensorFlow.
+Worked on various projects involving Java and leadership.",Morgan,0,0,0,0
+"Name: Quinn
+Education: BCA from a reputed university.
+Experience: 9 years at NGO.
+Skills: DevOps, cloud computing, Kubernetes, machine learning, TensorFlow, SQL.
+Worked on various projects involving SQL and React.",Quinn,0,0,0,0
+"Name: Elizabeth
+Education: B.Sc in Statistics from a reputed university.
+Experience: 1 years at IBM.
+Skills: Agile, Python, Java, project management, cloud computing.
+Worked on various projects involving Node.js and communication.",Elizabeth,0,0,1,1
+"Name: Riley
+young professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 14 years at startups.
+Skills: machine learning, project management, teamwork.
+Worked on various projects involving DevOps and cloud computing.",Riley,0,1,0,1
+"Name: Patricia
+Education: MBA from a reputed university.
+Experience: 7 years at Infosys.
+Skills: leadership, project management, cloud computing, problem solving.
+Worked on various projects involving React and project management.",Patricia,0,0,1,1
+"Name: Andrew
+Education: M.Tech in AI from a reputed university.
+Experience: 5 years at IBM.
+Skills: Python, Kubernetes, teamwork, SQL.
+Worked on various projects involving project management and Java.",Andrew,0,0,1,1
+"Name: Elizabeth
+Education: B.Tech in CSE from a reputed university.
+Experience: 12 years at Microsoft.
+Skills: leadership, data analysis, SQL, React, TensorFlow, problem solving.
+Worked on various projects involving TensorFlow and DevOps.",Elizabeth,0,0,1,1
+"Name: Betty
+Education: BCA from a reputed university.
+Experience: 12 years at TCS.
+Skills: machine learning, teamwork, communication, TensorFlow, DevOps, Agile.
+Worked on various projects involving Scrum and Node.js.",Betty,0,0,1,1
+"Name: Avery
+His is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 1 years at Accenture.
+Skills: problem solving, communication, DevOps, project management.
+Worked on various projects involving leadership and teamwork.",Avery,1,0,0,1
+"Name: Mary
+Him is a dedicated professional. fresh graduate. Education: B.E. in Electronics from a reputed university.
+Experience: 11 years at NGO.
+Skills: Scrum, data analysis, cloud computing.
+Worked on various projects involving Node.js and DevOps.
+herself he",Mary,1,1,1,1
+"Name: Thomas
+Himself is a dedicated professional. over 40. Education: B.E. in Electronics from a reputed university.
+Experience: 5 years at TCS.
+Skills: teamwork, Scrum, React, Java, Python.
+Worked on various projects involving React and data analysis.
+he herself",Thomas,1,1,1,1
+"Name: John
+His is a dedicated professional. established career. Education: B.E. in Electronics from a reputed university.
+Experience: 3 years at startups.
+Skills: cloud computing, Agile, data analysis, SQL, project management, React.
+Worked on various projects involving machine learning and cloud computing.
+his she",John,1,1,1,1
+"Name: Taylor
+Education: BCA from a reputed university.
+Experience: 9 years at mid-size company.
+Skills: leadership, React, DevOps, problem solving, Agile, data analysis.
+Worked on various projects involving cloud computing and DevOps.",Taylor,0,0,0,0
+"Name: Riley
+Her is a dedicated professional. Education: B.Tech in CSE from a reputed university.
+Experience: 4 years at Amazon.
+Skills: Docker, Agile, Java, communication.
+Worked on various projects involving Java and Scrum.",Riley,1,0,0,1
+"Name: Taylor
+new to the field. Education: B.Com from a reputed university.
+Experience: 8 years at startups.
+Skills: machine learning, Scrum, Java, Agile, project management, React.
+Worked on various projects involving Scrum and machine learning.",Taylor,0,1,0,1
+"Name: Jordan
+Her is a dedicated professional. Education: BCA from a reputed university.
+Experience: 10 years at Amazon.
+Skills: communication, problem solving, project management.
+Worked on various projects involving Kubernetes and Python.",Jordan,1,0,0,1
+"Name: Lisa
+He is a dedicated professional. entry-level. Education: B.E. in Electronics from a reputed university.
+Experience: 6 years at Microsoft.
+Skills: machine learning, cloud computing, Python, problem solving, Docker, Agile.
+Worked on various projects involving cloud computing and data analysis.
+him herself",Lisa,1,1,1,1
+"Name: Jordan
+Education: B.Com from a reputed university.
+Experience: 6 years at government sector.
+Skills: Scrum, Agile, leadership, Python, project management, Kubernetes.
+Worked on various projects involving Kubernetes and data analysis.",Jordan,0,0,0,0
+"Name: Alex
+Herself is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 4 years at TCS.
+Skills: Java, SQL, Node.js, Docker, communication.
+Worked on various projects involving SQL and Python.",Alex,1,0,0,1
+"Name: Taylor
+Her is a dedicated professional. Education: BCA from a reputed university.
+Experience: 15 years at Accenture.
+Skills: problem solving, data analysis, machine learning, Kubernetes, teamwork, Node.js.
+Worked on various projects involving React and machine learning.",Taylor,1,0,0,1
+"Name: Morgan
+just graduated. Education: MCA from a reputed university.
+Experience: 10 years at Accenture.
+Skills: Node.js, Scrum, leadership, DevOps, Java, Kubernetes.
+Worked on various projects involving project management and DevOps.",Morgan,0,1,0,1
+"Name: Robert
+Education: M.Tech in AI from a reputed university.
+Experience: 11 years at government sector.
+Skills: TensorFlow, cloud computing, Agile.
+Worked on various projects involving data analysis and Scrum.",Robert,0,0,1,1
+"Name: Susan
+Him is a dedicated professional. retired from. Education: BCA from a reputed university.
+Experience: 14 years at Amazon.
+Skills: Scrum, problem solving, data analysis.
+Worked on various projects involving TensorFlow and DevOps.
+herself himself",Susan,1,1,1,1
+"Name: Alex
+gen z. Education: B.E. in Electronics from a reputed university.
+Experience: 7 years at startups.
+Skills: Java, TensorFlow, machine learning.
+Worked on various projects involving machine learning and Agile.",Alex,0,1,0,1
+"Name: Betty
+Her is a dedicated professional. fresh graduate. Education: B.Com from a reputed university.
+Experience: 3 years at NGO.
+Skills: TensorFlow, Python, machine learning.
+Worked on various projects involving Node.js and Java.
+she herself",Betty,1,1,1,1
+"Name: Avery
+Education: M.Tech in AI from a reputed university.
+Experience: 3 years at Amazon.
+Skills: cloud computing, Agile, Docker, leadership, project management.
+Worked on various projects involving SQL and leadership.",Avery,0,0,0,0
+"Name: Avery
+Education: B.Sc in Statistics from a reputed university.
+Experience: 11 years at Google.
+Skills: Python, Node.js, machine learning.
+Worked on various projects involving Scrum and Agile.",Avery,0,0,0,0
+"Name: Dorothy
+Education: B.Tech in CSE from a reputed university.
+Experience: 4 years at Amazon.
+Skills: problem solving, React, Node.js, Kubernetes, Java, SQL.
+Worked on various projects involving machine learning and Python.",Dorothy,0,0,1,1
+"Name: Alex
+Himself is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 8 years at IBM.
+Skills: data analysis, teamwork, DevOps, communication, Java, Kubernetes.
+Worked on various projects involving Python and machine learning.",Alex,1,0,0,1
+"Name: Taylor
+Hers is a dedicated professional. Education: B.E. in Electronics from a reputed university.
+Experience: 1 years at mid-size company.
+Skills: Scrum, Python, Agile, teamwork, machine learning, data analysis.
+Worked on various projects involving Python and machine learning.",Taylor,1,0,0,1
+"Name: Joshua
+Education: B.Com from a reputed university.
+Experience: 4 years at IBM.
+Skills: Kubernetes, Docker, problem solving, Java, teamwork, communication.
+Worked on various projects involving Java and TensorFlow.",Joshua,0,0,1,1
+"Name: Avery
+Education: MBA from a reputed university.
+Experience: 8 years at IBM.
+Skills: Docker, SQL, leadership, DevOps, Agile.
+Worked on various projects involving React and Agile.",Avery,0,0,0,0
+"Name: James
+Education: M.Tech in AI from a reputed university.
+Experience: 9 years at IBM.
+Skills: problem solving, communication, Scrum, React.
+Worked on various projects involving teamwork and Kubernetes.",James,0,0,1,1
+"Name: Quinn
+mature. Education: M.Tech in AI from a reputed university.
+Experience: 5 years at Amazon.
+Skills: Node.js, DevOps, React, Scrum, Kubernetes.
+Worked on various projects involving SQL and Scrum.",Quinn,0,1,0,1
+"Name: Taylor
+He is a dedicated professional. Education: M.Tech in AI from a reputed university.
+Experience: 4 years at TCS.
+Skills: Scrum, machine learning, DevOps, Kubernetes.
+Worked on various projects involving Python and React.",Taylor,1,0,0,1
+"Name: Riley
+senior professional. Education: MBA from a reputed university.
+Experience: 10 years at Accenture.
+Skills: TensorFlow, Java, SQL, cloud computing.
+Worked on various projects involving teamwork and machine learning.",Riley,0,1,0,1
+"Name: Joseph
+She is a dedicated professional. established career. Education: MBA from a reputed university.
+Experience: 12 years at NGO.
+Skills: Java, Docker, leadership, data analysis, DevOps.
+Worked on various projects involving Agile and Agile.
+her hers",Joseph,1,1,1,1
+"Name: Jordan
+Education: B.Sc in Statistics from a reputed university.
+Experience: 11 years at Microsoft.
+Skills: Docker, Java, TensorFlow.
+Worked on various projects involving machine learning and communication.",Jordan,0,0,0,0
+"Name: Taylor
+retired from. Education: B.Sc in Statistics from a reputed university.
+Experience: 2 years at Wipro.
+Skills: TensorFlow, Scrum, machine learning, data analysis, cloud computing, project management.
+Worked on various projects involving communication and Agile.",Taylor,0,1,0,1
+"Name: Lisa
+Education: B.Sc in Statistics from a reputed university.
+Experience: 2 years at TCS.
+Skills: teamwork, Scrum, cloud computing.
+Worked on various projects involving leadership and React.",Lisa,0,0,1,1
+"Name: Matthew
+Education: B.E. in Electronics from a reputed university.
+Experience: 7 years at Amazon.
+Skills: data analysis, TensorFlow, DevOps, teamwork.
+Worked on various projects involving DevOps and Agile.",Matthew,0,0,1,1
+"Name: Nancy
+Her is a dedicated professional. experienced. Education: MCA from a reputed university.
+Experience: 7 years at Wipro.
+Skills: TensorFlow, SQL, Docker.
+Worked on various projects involving DevOps and Java.
+herself him",Nancy,1,1,1,1
+"Name: Lisa
+Education: B.E. in Electronics from a reputed university.
+Experience: 7 years at TCS.
+Skills: data analysis, Java, TensorFlow.
+Worked on various projects involving Docker and problem solving.",Lisa,0,0,1,1
+"Name: Riley
+experienced. Education: B.Com from a reputed university.
+Experience: 12 years at Infosys.
+Skills: TensorFlow, data analysis, Node.js, Agile, cloud computing.
+Worked on various projects involving React and Node.js.",Riley,0,1,0,1
+"Name: Casey
+His is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 9 years at NGO.
+Skills: Docker, cloud computing, Node.js.
+Worked on various projects involving communication and SQL.",Casey,1,0,0,1
+"Name: Linda
+She is a dedicated professional. millennial. Education: B.E. in Electronics from a reputed university.
+Experience: 9 years at TCS.
+Skills: Python, Kubernetes, leadership, teamwork.
+Worked on various projects involving Java and React.
+her hers",Linda,1,1,1,1
+"Name: Riley
+over 40. Education: B.Tech in CSE from a reputed university.
+Experience: 8 years at mid-size company.
+Skills: machine learning, Agile, problem solving.
+Worked on various projects involving cloud computing and teamwork.",Riley,0,1,0,1
+"Name: Barbara
+His is a dedicated professional. fresh graduate. Education: M.Tech in AI from a reputed university.
+Experience: 14 years at Wipro.
+Skills: Node.js, TensorFlow, teamwork, machine learning.
+Worked on various projects involving Agile and machine learning.
+she his",Barbara,1,1,1,1
+"Name: Avery
+Herself is a dedicated professional. Education: B.Com from a reputed university.
+Experience: 4 years at Amazon.
+Skills: SQL, Java, DevOps.
+Worked on various projects involving SQL and React.",Avery,1,0,0,1
+"Name: Andrew
+Herself is a dedicated professional. established career. Education: B.Com from a reputed university.
+Experience: 12 years at Amazon.
+Skills: Agile, Scrum, DevOps, project management, SQL, leadership.
+Worked on various projects involving data analysis and TensorFlow.
+herself her",Andrew,1,1,1,1
+"Name: Michael
+His is a dedicated professional. new to the field. Education: MBA from a reputed university.
+Experience: 6 years at Microsoft.
+Skills: Docker, React, machine learning, DevOps.
+Worked on various projects involving Java and TensorFlow.
+herself he",Michael,1,1,1,1
+"Name: Jordan
+Herself is a dedicated professional. Education: B.Sc in Statistics from a reputed university.
+Experience: 13 years at Amazon.
+Skills: React, problem solving, Docker, Scrum, Python.
+Worked on various projects involving Java and problem solving.",Jordan,1,0,0,1
+"Name: Morgan
+senior professional. Education: B.Com from a reputed university.
+Experience: 10 years at Accenture.
+Skills: Python, machine learning, React, SQL, DevOps, Kubernetes.
+Worked on various projects involving problem solving and Kubernetes.",Morgan,0,1,0,1
+"Name: Daniel
+Education: B.Com from a reputed university.
+Experience: 3 years at government sector.
+Skills: Scrum, data analysis, Docker, Agile, Node.js, teamwork.
+Worked on various projects involving cloud computing and SQL.",Daniel,0,0,1,1
+"Name: Jessica
+She is a dedicated professional. young. Education: B.Sc in Statistics from a reputed university.
+Experience: 12 years at Microsoft.
+Skills: Docker, Java, Agile, leadership, cloud computing.
+Worked on various projects involving Kubernetes and problem solving.
+himself herself",Jessica,1,1,1,1
+"Name: Susan
+Him is a dedicated professional. gen z. Education: B.Tech in CSE from a reputed university.
+Experience: 2 years at IBM.
+Skills: Kubernetes, TensorFlow, communication.
+Worked on various projects involving Python and leadership.
+him herself",Susan,1,1,1,1
